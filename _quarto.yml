@@ -10,6 +10,7 @@ project:
 book:
   title: "Cendekia Muslim: Matematika, Statistika & Kecerdasan Buatan"
   subtitle: "Antologi Kisah Penemuan dan Kontribusi Ilmuwan Muslim dari Klasik hingga Kontemporer"
+  author: "Deri Siswara"
 #  favicon: images/cleaner-shrimp_cover.png
   reader-mode: true
   page-navigation: true
@@ -29,6 +30,7 @@ book:
 #    card-style: summary_large_image
 #  sidebar:
 #    logo: images/ALA_Logo_Inline_RGB.png
+ 
 
   page-footer:
     border: true
