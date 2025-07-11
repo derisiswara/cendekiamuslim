@@ -1,0 +1,17 @@
+# Nizar Habash: Arabic NLP Pioneer {#sec-nizar-habash}
+
+## Pendahuluan
+
+Prof. Nizar Habash adalah pionir dalam Natural Language Processing untuk bahasa Arab dan computational linguistics.
+
+## Kontribusi
+
+### Arabic NLP
+Pengembangan tools dan methodologies untuk processing bahasa Arab.
+
+### Cross-lingual NLP
+Metodologi untuk bridging Arabic dan bahasa lain dalam NLP systems.
+
+---
+
+*[Catatan: Placeholder chapter untuk dikembangkan lebih lanjut.]*

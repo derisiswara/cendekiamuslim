@@ -1,0 +1,138 @@
+# Database Tokoh Statistika Muslim
+
+tokoh:
+  - nama_lengkap: "Ibn Ad-Dana"
+    nama_populer: "Ibn Ad-Dana"
+    tahun_lahir: 1200
+    tahun_wafat: 1280
+    lokasi_lahir: "Andalusia"
+    lokasi_aktif: ["Cordoba", "Seville"]
+    bidang_utama: ["statistika"]
+    sub_bidang: ["astronomi statistik", "observasi sistematis"]
+    
+    kontribusi_utama:
+      - "Metode sistematis pengumpulan data astronomi"
+      - "Analisis variabilitas pengamatan"
+      - "Teknik estimasi ketidakpastian"
+    
+    latar_islami: "Presisi dalam observasi sebagai bentuk ibadah dan pencarian kebenaran"
+    nilai_islam_terapan: ["ketelitian dalam pengamatan", "pencatatan sistematis"]
+    
+    era: "medieval"
+    wilayah: ["andalusia"]
+    gender: "laki-laki"
+    status_hidup: "almarhum"
+    verifikasi_fakta: false
+    tingkat_dokumentasi: "rendah"
+    catatan_khusus: "Perlu verifikasi lebih lanjut tentang kontribusi spesifik dalam statistika"
+
+  - nama_lengkap: "أبو بكر محمد بن زكريا الرازي (Abu Bakr Muhammad ibn Zakariya al-Razi)"
+    nama_populer: "Al-Razi (Rhazes)"
+    tahun_lahir: 854
+    tahun_wafat: 925
+    lokasi_lahir: "Ray, Persia (dekat Tehran modern)"
+    lokasi_aktif: ["Ray", "Baghdad"]
+    bidang_utama: ["statistika"]
+    sub_bidang: ["biostatistika", "epidemiologi", "metodologi medis"]
+    
+    kontribusi_utama:
+      - "Pengembangan uji klinis sistematis pertama"
+      - "Metode pencatatan dan analisis data medis"
+      - "Studi komparatif efektivitas pengobatan"
+      - "Penggunaan kontrol grup dalam eksperimen medis"
+    
+    karya_penting:
+      - "Al-Hawi fi al-Tibb (Comprehensive Book on Medicine)"
+      - "Kitab al-Mansuri (Book for al-Mansur)"
+      - "Al-Judari wa al-Hasbah (On Smallpox and Measles)"
+    
+    latar_islami: "Memandang pengobatan sebagai amanah Allah dan kewajiban untuk membantu sesama"
+    motivasi_spiritual: "Pencarian metodologi ilmiah untuk pengobatan sebagai bentuk ibadah"
+    nilai_islam_terapan: ["metodologi yang ketat", "etika dalam eksperimen", "pelayanan pada kemanusiaan"]
+    
+    dampak_kontemporer: "Merevolusi praktik kedokteran dengan pendekatan evidence-based"
+    dampak_modern: "Fondasi metodologi uji klinis dan evidence-based medicine modern"
+    
+    sumber_primer:
+      - "Al-Hawi fi al-Tibb (manuskrip dalam berbagai bahasa)"
+    sumber_sekunder:
+      - "Ullmann, Manfred. 'Islamic Medicine'"
+      - "Savage-Smith, Emilie. 'Medicine in Medieval Islam'"
+    
+    era: "klasik"
+    wilayah: ["persia"]
+    gender: "laki-laki"
+    status_hidup: "almarhum"
+    verifikasi_fakta: true
+    tingkat_dokumentasi: "tinggi"
+
+  - nama_lengkap: "Salim Yusuf"
+    nama_populer: "Prof. Salim Yusuf"
+    tahun_lahir: 1952
+    tahun_wafat: null
+    lokasi_lahir: "Bangalore, India"
+    lokasi_aktif: ["Oxford University", "McMaster University", "Hamilton, Canada"]
+    bidang_utama: ["statistika"]
+    sub_bidang: ["biostatistika", "epidemiologi kardiovaskular", "meta-analisis"]
+    
+    kontribusi_utama:
+      - "Pengembangan metodologi meta-analisis untuk uji klinis"
+      - "Studi epidemiologi kardiovaskular global (INTERHEART, INTERSTROKE)"
+      - "Metodologi large-scale randomized controlled trials"
+      - "Analisis statistik faktor risiko global penyakit jantung"
+    
+    karya_penting:
+      - "INTERHEART Study - global case-control study"
+      - "ONTARGET trial methodology"
+      - "Lebih dari 500 publikasi dalam jurnal internasional"
+    
+    penghargaan:
+      - "Officer of the Order of Canada"
+      - "Fellow of the Royal Society of Canada"
+      - "Canada Gairdner International Award"
+    
+    latar_islami: "Keluarga Muslim India yang menghargai pendidikan dan pelayanan kesehatan"
+    motivasi_spiritual: "Penelitian medis sebagai bentuk pelayanan kemanusiaan"
+    nilai_islam_terapan: ["pelayanan kesehatan universal", "keadilan dalam akses pengobatan", "metodologi yang honest"]
+    
+    dampak_modern: "Mengubah standar global untuk uji klinis kardiovaskular dan pencegahan penyakit jantung"
+    institusi_terkait: ["McMaster University", "Population Health Research Institute"]
+    
+    sumber_modern:
+      - "PubMed database - publikasi ilmiah"
+      - "McMaster University faculty profile"
+    
+    era: "kontemporer"
+    wilayah: ["asia_selatan"]
+    gender: "laki-laki"
+    status_hidup: "masih_hidup"
+    verifikasi_fakta: true
+    tingkat_dokumentasi: "tinggi"
+
+  - nama_lengkap: "Hanan Khadr"
+    nama_populer: "Prof. Hanan Khadr"
+    tahun_lahir: 1966
+    tahun_wafat: null
+    lokasi_lahir: "Cairo, Egypt"
+    lokasi_aktif: ["Cairo University", "American University in Cairo"]
+    bidang_utama: ["statistika"]
+    sub_bidang: ["demografis", "statistika sosial", "survey methodology"]
+    
+    kontribusi_utama:
+      - "Metodologi survei demografis untuk negara berkembang"
+      - "Analisis statistik kemiskinan dan pembangunan sosial"
+      - "Pengembangan indikator sosial-ekonomi"
+    
+    latar_islami: "Memandang statistika sebagai alat untuk mencapai keadilan sosial"
+    motivasi_spiritual: "Menggunakan data untuk membantu kebijakan yang mensejahterakan umat"
+    nilai_islam_terapan: ["keadilan sosial", "perhatian pada yang lemah", "transparansi data"]
+    
+    dampak_modern: "Berkontribusi pada metodologi survei internasional dan kebijakan pembangunan"
+    
+    era: "kontemporer"
+    wilayah: ["arab"]
+    gender: "perempuan"
+    status_hidup: "masih_hidup"
+    verifikasi_fakta: false
+    tingkat_dokumentasi: "sedang"
+    catatan_khusus: "Perlu verifikasi lebih detail tentang kontribusi spesifik"

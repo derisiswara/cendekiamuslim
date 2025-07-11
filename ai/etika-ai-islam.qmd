@@ -1,0 +1,34 @@
+# Etika AI dalam Perspektif Islam {#sec-etika-ai-islam}
+
+## Pendahuluan
+
+Bab ini mengeksplorasi bagaimana prinsip-prinsip etika Islam dapat memberikan guidance untuk pengembangan AI yang responsible dan beneficial.
+
+## Prinsip-Prinsip Etika Islam untuk AI
+
+### Maslaha (Public Interest)
+AI harus dikembangkan untuk kemashlahatan umum umat manusia.
+
+### Adl (Justice)
+Algoritma AI harus fair dan tidak diskriminatif.
+
+### Amanah (Trust)
+Responsibility dalam developing dan deploying AI systems.
+
+### Hikmah (Wisdom)
+Menggunakan AI dengan bijaksana dan mempertimbangkan konsekuensi jangka panjang.
+
+## Aplikasi Praktis
+
+### Algorithmic Fairness
+Bagaimana prinsip keadilan Islam dapat diterapkan dalam algorithm design.
+
+### Privacy dan Data Protection
+Prinsip Islam tentang protection of privacy (hifz al-'ird).
+
+### Transparency dan Explainability
+Kewajiban untuk transparency dalam decision-making processes.
+
+---
+
+*[Catatan: Placeholder chapter untuk dikembangkan lebih lanjut dengan theological dan technical analysis yang mendalam.]*

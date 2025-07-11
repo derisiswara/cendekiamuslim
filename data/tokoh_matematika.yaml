@@ -1,0 +1,144 @@
+# Database Tokoh Matematika Muslim
+
+tokoh:
+  - nama_lengkap: "أبو عبد الله محمد بن موسى الخوارزمي (Abu Abdullah Muhammad ibn Musa al-Khwarizmi)"
+    nama_populer: "Al-Khwarizmi"
+    tahun_lahir: 780
+    tahun_wafat: 850
+    lokasi_lahir: "Khwarezm (sekarang Uzbekistan)"
+    lokasi_aktif: ["Baghdad", "House of Wisdom"]
+    bidang_utama: ["matematika"]
+    sub_bidang: ["aljabar", "aritmatika", "geometri", "astronomi"]
+    
+    kontribusi_utama:
+      - "Memperkenalkan konsep aljabar sebagai disiplin matematika terpisah"
+      - "Mengembangkan sistem angka Hindu-Arab di dunia Islam"
+      - "Menulis algoritma sistematis untuk perhitungan matematika"
+      - "Metode penyelesaian persamaan kuadrat"
+    
+    karya_penting:
+      - "Al-Kitab al-mukhtasar fi hisab al-jabr wa'l-muqabala (Kitab Aljabar)"
+      - "Zij al-Sindhind (Tabel Astronomi)"
+      - "Kitab Surat al-Ard (Buku Gambaran Bumi)"
+    
+    penghargaan:
+      - "Diakui sebagai 'Bapak Aljabar'"
+      - "Namanya diabadikan dalam istilah 'algorithm'"
+    
+    latar_islami: "Bekerja di Baitul Hikmah Baghdad pada masa Khalifah Al-Ma'mun yang sangat mendorong pengembangan ilmu pengetahuan"
+    motivasi_spiritual: "Memandang matematika sebagai cara memahami keteraturan ciptaan Allah"
+    nilai_islam_terapan: ["pencarian ilmu", "presisi dalam perhitungan", "keadilan dalam pembagian warisan"]
+    
+    dampak_kontemporer: "Karyanya diterjemahkan ke berbagai bahasa dan menjadi standar pembelajaran matematika"
+    dampak_modern: "Aljabar modern dan sistem angka desimal yang kita gunakan berasal dari karyanya"
+    
+    sumber_primer:
+      - "Al-Kitab al-mukhtasar fi hisab al-jabr wa'l-muqabala (manuskrip asli)"
+    sumber_sekunder:
+      - "Boyer, Carl B. 'A History of Mathematics'"
+      - "Rashed, Roshdi. 'The Development of Arabic Mathematics'"
+    
+    era: "klasik"
+    wilayah: ["asia_tengah", "arab"]
+    gender: "laki-laki"
+    status_hidup: "almarhum"
+    verifikasi_fakta: true
+    tingkat_dokumentasi: "tinggi"
+
+  - nama_lengkap: "غياث الدين أبو الفتح عمر بن إبراهيم الخيام النيسابوري (Ghiyath al-Din Abu'l-Fath Umar ibn Ibrahim Al-Khayyam Nishapuri)"
+    nama_populer: "Omar Khayyam"
+    tahun_lahir: 1048
+    tahun_wafat: 1131
+    lokasi_lahir: "Nishapur, Persia (sekarang Iran)"
+    lokasi_aktif: ["Nishapur", "Isfahan", "Samarkand"]
+    bidang_utama: ["matematika"]
+    sub_bidang: ["geometri", "aljabar", "astronomi"]
+    
+    kontribusi_utama:
+      - "Solusi geometris untuk persamaan kubik"
+      - "Pengembangan geometri non-Euclidean"
+      - "Reformasi kalender Jalali yang sangat akurat"
+      - "Teori paralel dalam geometri"
+    
+    karya_penting:
+      - "Risalah fi'l-burhan ala masa'il al-jabr wa'l-muqabala"
+      - "Sharh ma ashkala min musadarat kitab Uqlidis"
+      - "Rubaiyat (karya sastra)"
+    
+    latar_islami: "Hidup dalam tradisi sufi dan filosofi Islam yang menekankan pencarian kebenaran"
+    motivasi_spiritual: "Memandang geometri sebagai refleksi keharmonisan divine"
+    nilai_islam_terapan: ["tauhid dalam keteraturan alam", "keseimbangan spiritualitas dan rasionalitas"]
+    
+    dampak_modern: "Fondasi geometri analitik dan teori yang mempengaruhi geometri non-Euclidean"
+    
+    era: "medieval"
+    wilayah: ["persia"]
+    gender: "laki-laki"
+    status_hidup: "almarhum"
+    verifikasi_fakta: true
+    tingkat_dokumentasi: "tinggi"
+
+  - nama_lengkap: "Maryam Mirzakhani"
+    nama_populer: "Maryam Mirzakhani"
+    tahun_lahir: 1977
+    tahun_wafat: 2017
+    lokasi_lahir: "Tehran, Iran"
+    lokasi_aktif: ["Harvard University", "Stanford University"]
+    bidang_utama: ["matematika"]
+    sub_bidang: ["geometri hiperbolik", "sistem dinamis", "teori moduli"]
+    
+    kontribusi_utama:
+      - "Teorema fundamental tentang volume ruang moduli"
+      - "Penelitian groundbreaking dalam dinamika pada permukaan Riemann"
+      - "Menghubungkan geometri hiperbolik dengan teori bilangan"
+    
+    karya_penting:
+      - "Simple geodesics and Weil-Petersson volumes of moduli spaces"
+      - "Growth of the number of simple closed geodesics on hyperbolic surfaces"
+    
+    penghargaan:
+      - "Fields Medal 2014 (wanita pertama yang menerima)"
+      - "AMS Blumenthal Award"
+      - "Clay Research Fellowship"
+    
+    latar_islami: "Tumbuh dalam keluarga Muslim Iran yang menghargai pendidikan"
+    motivasi_spiritual: "Memandang matematika sebagai bahasa universal untuk memahami alam"
+    nilai_islam_terapan: ["ketekunan dalam pencarian ilmu", "kerendahan hati", "inspirasi bagi perempuan Muslim"]
+    
+    dampak_modern: "Membuka jalan baru dalam penelitian geometri dan menginspirasi perempuan di STEM"
+    institusi_terkait: ["Stanford University", "Harvard University"]
+    
+    era: "kontemporer"
+    wilayah: ["persia"]
+    gender: "perempuan"
+    status_hidup: "almarhum"
+    verifikasi_fakta: true
+    tingkat_dokumentasi: "tinggi"
+
+  - nama_lengkap: "كمال الدين أبو الحسن محمد بن الحسن الفارسي (Kamal al-Din Abu al-Hasan Muhammad ibn al-Hasan al-Farisi)"
+    nama_populer: "Kamal al-Din al-Farisi"
+    tahun_lahir: 1267
+    tahun_wafat: 1319
+    lokasi_lahir: "Fars, Persia"
+    lokasi_aktif: ["Damascus", "Cairo"]
+    bidang_utama: ["matematika"]
+    sub_bidang: ["geometri", "optik", "astronomi"]
+    
+    kontribusi_utama:
+      - "Penjelasan matematis fenomena pelangi"
+      - "Pengembangan geometri optik"
+      - "Revisi dan komentari karya Ibn al-Haytham"
+    
+    karya_penting:
+      - "Tanqih al-Manazir (Revisi Optik)"
+      - "Tadhkira fi Hisab al-Awtar"
+    
+    latar_islami: "Memandang observasi alam sebagai cara membaca ayat-ayat Allah"
+    dampak_modern: "Dasar-dasar optik geometris modern"
+    
+    era: "medieval"
+    wilayah: ["persia"]
+    gender: "laki-laki"
+    status_hidup: "almarhum"
+    verifikasi_fakta: true
+    tingkat_dokumentasi: "sedang"

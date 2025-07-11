@@ -1,0 +1,84 @@
+project:
+  type: book
+  output-dir: _book
+  resources: 
+    - "*.png"
+    - "*.jpeg"
+    - "*.jfif"
+    - "*.svg"
+
+book:
+  title: "Cendekia Muslim: Matematika, Statistika & Kecerdasan Buatan"
+  subtitle: "Antologi Kisah Penemuan dan Kontribusi Ilmuwan Muslim dari Klasik hingga Kontemporer"
+#  favicon: images/cleaner-shrimp_cover.png
+  reader-mode: true
+  page-navigation: true
+  back-to-top-navigation: true
+  search: true
+#  site-url: 
+#  repo-url: 
+  margin-header: _fathom.html
+#  image: images/cleaner-shrimp_cover.png
+#  image-alt: "Source: https://uzbekistan.org/biruni/"
+#  open-graph: 
+#    image: images/cleaner-shrimp_cover.png
+#    image-alt: "A cover image with a Pacific Cleaner Shrimp illustration"
+#  twitter-card: 
+#    image: images/cleaner-shrimp_cover.png
+#    image-alt: "A cover image with a Pacific Cleaner Shrimp illustration"
+#    card-style: summary_large_image
+#  sidebar:
+#    logo: images/ALA_Logo_Inline_RGB.png
+
+  page-footer:
+    border: true
+#    left: |
+#      Cleaning Biodiversity Data in R is a product of <a href="https://ala.org.au/">![](/images/ALA_Logo_Inline_RGB.png){style='width: auto; height: 35px; padding-left: 10px; padding-right: 10px; margin-bottom:5px;'}</a>
+#    center: |
+#     <a href="https://www.education.gov.au/ncris">![](/images/NCRIS_logo.png){style='width: auto; height: 35px; padding-left: 10px; padding-right: 10px; margin-bottom:5px;'}</a><a href="https://www.csiro.au/en/">![](/images/CSIRO_logo.png){style='width: auto; height: 35px; padding-left: 10px; padding-right: 10px; margin-bottom:5px;'}</a><a href="https://www.gbif.org/en/">![](/images/GBIF-2015.png){style='width: auto; height: 35px; padding-left: 10px; padding-right: 10px; margin-bottom:5px;'}</a>
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+#  cover-image: images/cleaner-shrimp_cover.png
+
+  chapters:
+  - index.qmd
+  - part: "Matematika: Fondasi Ilmu Hitung"
+    chapters:
+      - matematika/al-khwarizmi.qmd
+      - matematika/omar-khayyam.qmd  
+      - matematika/maryam-mirzakhani.qmd
+      - matematika/kamal-al-farisi.qmd
+  - part: "Statistika: Ilmu Data dan Probabilitas"
+    chapters:
+      - statistika/al-razi.qmd
+      - statistika/salim-yusuf.qmd
+      - statistika/hanan-khadr.qmd
+      - statistika/metodologi-islam.qmd
+  - part: "Kecerdasan Buatan & Data Science"
+    chapters:
+      - ai/al-kindi.qmd
+      - ai/yoshua-bengio.qmd
+      - ai/nizar-habash.qmd
+      - ai/dina-katabi.qmd
+      - ai/etika-ai-islam.qmd
+  appendices:
+  - references.qmd
+
+bibliography: 
+  - references.bib
+
+format:
+  html:
+    mainfont: Roboto
+    monofont: Fira Code
+    highlight-style: arrow
+    monobackgroundcolor: "#F7F7F7"
+    theme: 
+      - theme.css
+      - theme.scss
+      - lumen
+
+execute:
+  code-annotations: hover
+  number-depth: 3
+

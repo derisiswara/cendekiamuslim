@@ -1,0 +1,17 @@
+# Salim Yusuf: Meta-analisis Global {#sec-salim-yusuf}
+
+## Pendahuluan
+
+Prof. Salim Yusuf adalah epidemiologist dan cardiologist terkemuka yang mengembangkan metodologi meta-analisis untuk uji klinis skala global.
+
+## Kontribusi dalam Biostatistika
+
+### INTERHEART Study
+Studi case-control global yang mengidentifikasi faktor risiko penyakit jantung di berbagai populasi.
+
+### Metodologi Meta-analisis
+Pengembangan teknik statistical untuk menggabungkan hasil dari multiple clinical trials.
+
+---
+
+*[Catatan: Placeholder chapter untuk dikembangkan lebih lanjut.]*

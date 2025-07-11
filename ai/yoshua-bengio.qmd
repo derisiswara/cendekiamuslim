@@ -1,0 +1,17 @@
+# Yoshua Bengio: Deep Learning Pioneer {#sec-yoshua-bengio}
+
+## Pendahuluan
+
+Prof. Yoshua Bengio adalah salah satu pionir deep learning dan penerima Turing Award 2018.
+
+## Kontribusi AI
+
+### Neural Networks
+Pengembangan arsitektur neural network yang revolusioner.
+
+### AI for Humanity
+Komitmen untuk mengembangkan AI yang beneficial untuk kemanusiaan.
+
+---
+
+*[Catatan: Placeholder chapter untuk dikembangkan lebih lanjut.]*

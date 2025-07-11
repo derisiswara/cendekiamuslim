@@ -1,0 +1,52 @@
+# Template Data Tokoh
+# Salin template ini untuk menambahkan tokoh baru
+
+nama_lengkap: ""           # Nama lengkap dalam bahasa asli dan transliterasi
+nama_populer: ""           # Nama yang umum dikenal
+tahun_lahir: null          # Tahun lahir (atau perkiraan jika tidak pasti)
+tahun_wafat: null          # Tahun wafat (null jika masih hidup)
+lokasi_lahir: ""           # Kota/wilayah kelahiran
+lokasi_aktif: []           # Tempat-tempat dimana tokoh berkarya
+bidang_utama: []           # [matematika, statistika, ai, data_science]
+sub_bidang: []             # Spesialisasi dalam bidang utama
+
+# Kontribusi Ilmiah
+kontribusi_utama: []       # List kontribusi paling signifikan
+karya_penting: []          # Buku, paper, teori yang terkenal
+metode_inovasi: []         # Metodologi atau teknik yang dikembangkan
+penghargaan: []            # Penghargaan dan pengakuan yang diterima
+
+# Konteks Keislaman
+latar_islami: ""           # Bagaimana Islam mempengaruhi karya ilmiahnya
+motivasi_spiritual: ""     # Motivasi keagamaan dalam berkarya
+nilai_islam_terapan: []    # Nilai-nilai Islam yang tercermin dalam karyanya
+
+# Dampak dan Warisan
+dampak_kontemporer: ""     # Pengaruh pada masa hidupnya
+dampak_modern: ""          # Relevansi dengan perkembangan ilmu modern
+institusi_terkait: []      # Universitas, lembaga, organisasi yang terkait
+murid_penerus: []          # Tokoh-tokoh yang melanjutkan karyanya
+
+# Informasi Biografis
+keluarga: ""               # Informasi keluarga yang relevan
+pendidikan: []             # Riwayat pendidikan
+guru_pembimbing: []        # Mentor atau guru yang berpengaruh
+perjalanan_intelektual: "" # Narasi perjalanan karir dan pemikiran
+
+# Sumber dan Referensi
+sumber_primer: []          # Karya asli, dokumen historis
+sumber_sekunder: []        # Biografi, analisis akademik
+sumber_modern: []          # Penelitian kontemporer, artikel jurnal
+wawancara: []              # Wawancara (untuk tokoh yang masih hidup)
+
+# Metadata
+verifikasi_fakta: false    # Sudah diverifikasi kebenarannya
+tingkat_dokumentasi: ""    # [tinggi, sedang, rendah] - seberapa lengkap dokumentasinya
+catatan_khusus: ""         # Catatan tambahan untuk research
+tanggal_update: ""         # Terakhir diupdate
+
+# Tags untuk kategorisasi
+era: ""                    # [klasik, medieval, modern, kontemporer]
+wilayah: []                # [arab, persia, andalusia, asia_tengah, indonesia, dll]
+gender: ""                 # [laki-laki, perempuan]
+status_hidup: ""           # [almarhum, masih_hidup]

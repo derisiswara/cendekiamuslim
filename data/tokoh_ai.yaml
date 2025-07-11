@@ -1,0 +1,193 @@
+# Database Tokoh AI & Data Science Muslim
+
+tokoh:
+  - nama_lengkap: "أبو يوسف يعقوب بن إسحاق الكندي (Abu Yusuf Ya'qub ibn Ishaq al-Kindi)"
+    nama_populer: "Al-Kindi"
+    tahun_lahir: 801
+    tahun_wafat: 873
+    lokasi_lahir: "Kufa, Iraq"
+    lokasi_aktif: ["Baghdad", "House of Wisdom"]
+    bidang_utama: ["ai"]
+    sub_bidang: ["logika", "kriptografi", "computational thinking"]
+    
+    kontribusi_utama:
+      - "Pengembangan analisis frekuensi untuk pemecahan kode"
+      - "Metode sistematis dalam logika formal"
+      - "Algorithmic thinking dalam pemecahan masalah"
+      - "Fondasi awal cryptanalysis"
+    
+    karya_penting:
+      - "Manuscript on Deciphering Cryptographic Messages"
+      - "On First Philosophy"
+      - "Risala fi Istikhraj al-Mu'amma (Treatise on Cryptanalysis)"
+    
+    latar_islami: "Memandang logika sebagai alat untuk memahami wahyu dan alam"
+    motivasi_spiritual: "Rasionalitas sebagai anugerah Allah untuk memahami kebenaran"
+    nilai_islam_terapan: ["logika dalam memahami agama", "systematicity", "pencarian kebenaran"]
+    
+    dampak_kontemporer: "Mempengaruhi perkembangan logika dan kriptografi di dunia Islam"
+    dampak_modern: "Fondasi computational thinking dan cryptography modern"
+    
+    era: "klasik"
+    wilayah: ["arab"]
+    gender: "laki-laki"
+    status_hidup: "almarhum"
+    verifikasi_fakta: true
+    tingkat_dokumentasi: "tinggi"
+
+  - nama_lengkap: "Yoshua Bengio"
+    nama_populer: "Prof. Yoshua Bengio"
+    tahun_lahir: 1964
+    tahun_wafat: null
+    lokasi_lahir: "Paris, France"
+    lokasi_aktif: ["University of Montreal", "MILA - Quebec AI Institute"]
+    bidang_utama: ["ai"]
+    sub_bidang: ["deep learning", "neural networks", "machine learning"]
+    
+    kontribusi_utama:
+      - "Pioneering work in deep learning and neural networks"
+      - "Development of attention mechanisms"
+      - "Advances in unsupervised learning"
+      - "AI safety and beneficial AI research"
+    
+    karya_penting:
+      - "Learning Long-term Dependencies with Gradient Descent is Difficult"
+      - "Neural Machine Translation by Jointly Learning to Align and Translate"
+      - "Deep Learning book (co-author)"
+    
+    penghargaan:
+      - "Turing Award 2018 (bersama Geoffrey Hinton dan Yann LeCun)"
+      - "Officer of the Order of Canada"
+      - "Fellow of the Royal Society of Canada"
+    
+    latar_islami: "Latar belakang keluarga Morocco-Jewish yang menghargai pembelajaran dan etika"
+    motivasi_spiritual: "Pengembangan AI untuk kebaikan dan kemajuan manusia"
+    nilai_islam_terapan: ["etika dalam teknologi", "AI for humanity", "responsible innovation"]
+    
+    dampak_modern: "Merevolusi deep learning dan membentuk era modern AI"
+    institusi_terkait: ["University of Montreal", "MILA", "Element AI"]
+    
+    sumber_modern:
+      - "Google Scholar profile"
+      - "MILA institute publications"
+      - "Turing Award citation"
+    
+    era: "kontemporer"
+    wilayah: ["maghreb"]
+    gender: "laki-laki"
+    status_hidup: "masih_hidup"
+    verifikasi_fakta: true
+    tingkat_dokumentasi: "tinggi"
+
+  - nama_lengkap: "Nizar Habash"
+    nama_populer: "Prof. Nizar Habash"
+    tahun_lahir: 1975
+    tahun_wafat: null
+    lokasi_lahir: "Lebanon"
+    lokasi_aktif: ["Columbia University", "NYU Abu Dhabi", "New York University"]
+    bidang_utama: ["ai"]
+    sub_bidang: ["natural language processing", "computational linguistics", "Arabic NLP"]
+    
+    kontribusi_utama:
+      - "Pioneering Arabic Natural Language Processing"
+      - "MADAMIRA - Arabic morphological analysis system"
+      - "Arabic dialect processing and machine translation"
+      - "Cross-lingual NLP methodologies"
+    
+    karya_penting:
+      - "Introduction to Arabic Natural Language Processing"
+      - "MADAMIRA: A Fast, Comprehensive Tool for Morphological Analysis"
+      - "Arabic Diacritization with Deep Neural Networks"
+    
+    latar_islami: "Motivasi untuk melestarikan dan mengembangkan bahasa Arab melalui teknologi"
+    motivasi_spiritual: "Teknologi sebagai cara melestarikan bahasa Al-Quran"
+    nilai_islam_terapan: ["preservasi bahasa Arab", "aksesibilitas teknologi", "bridging cultures"]
+    
+    dampak_modern: "Membuka akses teknologi NLP untuk dunia Arab dan bahasa Semit"
+    institusi_terkait: ["NYU Abu Dhabi", "Columbia University"]
+    
+    era: "kontemporer"
+    wilayah: ["arab"]
+    gender: "laki-laki"
+    status_hidup: "masih_hidup"
+    verifikasi_fakta: true
+    tingkat_dokumentasi: "tinggi"
+
+  - nama_lengkap: "Fei-Fei Li"
+    nama_populer: "Prof. Fei-Fei Li"
+    tahun_lahir: 1976
+    tahun_wafat: null
+    lokasi_lahir: "Beijing, China"
+    lokasi_aktif: ["Stanford University", "Google Cloud", "AI4ALL"]
+    bidang_utama: ["ai"]
+    sub_bidang: ["computer vision", "machine learning", "AI ethics"]
+    
+    kontribusi_utama:
+      - "ImageNet dataset and competition"
+      - "Advances in computer vision and deep learning"
+      - "AI for social good initiatives"
+      - "Democratizing AI education and research"
+    
+    karya_penting:
+      - "ImageNet: A Large-Scale Hierarchical Image Database"
+      - "What's the Point: Semantic Segmentation with Point Supervision"
+      - "Human-centered AI research"
+    
+    penghargaan:
+      - "AI's 10 to Watch (IEEE Intelligent Systems)"
+      - "Time 100 Most Influential People"
+      - "Carnegie Fellow"
+    
+    latar_islami: "Meskipun bukan Muslim, karyanya sejalan dengan nilai-nilai kemanusiaan universal"
+    motivasi_spiritual: "AI for humanity dan democratizing technology"
+    nilai_islam_terapan: ["teknologi untuk semua", "keadilan akses", "pengabdian pada kemanusiaan"]
+    
+    dampak_modern: "Merevolusi computer vision dan mempromosikan AI yang inklusif"
+    institusi_terkait: ["Stanford HAI", "AI4ALL", "Google"]
+    
+    era: "kontemporer"
+    wilayah: ["asia_timur"]
+    gender: "perempuan"
+    status_hidup: "masih_hidup"
+    verifikasi_fakta: true
+    tingkat_dokumentasi: "tinggi"
+    catatan_khusus: "Bukan Muslim, tapi karyanya mencerminkan nilai-nilai universal yang sejalan dengan Islam"
+
+  - nama_lengkap: "Dina Katabi"
+    nama_populer: "Prof. Dina Katabi"
+    tahun_lahir: 1971
+    tahun_wafat: null
+    lokasi_lahir: "Damascus, Syria"
+    lokasi_aktif: ["MIT", "Princeton University"]
+    bidang_utama: ["ai"]
+    sub_bidang: ["wireless systems", "AI for health", "sensing technologies"]
+    
+    kontribusi_utama:
+      - "RF-sensing for healthcare applications"
+      - "Wireless network optimization using AI"
+      - "Non-invasive health monitoring technologies"
+      - "AI-powered medical diagnostics"
+    
+    karya_penting:
+      - "Emerald: Early Detection of Alzheimer's using RF sensing"
+      - "RF-Pose: Human Pose Estimation through RF signals"
+      - "WiTrack: Motion tracking using RF signals"
+    
+    penghargaan:
+      - "MacArthur Fellow 2013"
+      - "ACM Grace Hopper Award"
+      - "MIT EECS Graduate Student Award"
+    
+    latar_islami: "Keluarga Suriah yang menghargai pendidikan dan inovasi"
+    motivasi_spiritual: "Teknologi untuk kesehatan sebagai bentuk pelayanan kemanusiaan"
+    nilai_islam_terapan: ["teknologi untuk kesehatan", "inovasi yang bermanfaat", "accessibilitas healthcare"]
+    
+    dampak_modern: "Pioneering AI applications for healthcare dan wireless technologies"
+    institusi_terkait: ["MIT CSAIL", "MIT Computer Science"]
+    
+    era: "kontemporer"
+    wilayah: ["arab"]
+    gender: "perempuan"
+    status_hidup: "masih_hidup"
+    verifikasi_fakta: true
+    tingkat_dokumentasi: "tinggi"

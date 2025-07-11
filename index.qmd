@@ -1,0 +1,23 @@
+# Selamat Datang {.unnumbered}
+
+Buku ini adalah antologi yang menampilkan kisah-kisah inspiratif tentang penemuan dan kontribusi para ilmuwan Muslim dari masa klasik hingga kontemporer di tiga bidang utama: **Matematika**, **Statistika**, dan **Kecerdasan Buatan (Artificial Intelligence)**. 
+
+Dengan menggali warisan intelektual yang kaya dari peradaban Islam, buku ini menghadirkan minimal 12 tokoh yang telah memberikan dampak signifikan bagi perkembangan ilmu pengetahuan modern. Setiap kisah tidak hanya menyoroti pencapaian ilmiah mereka, tetapi juga konteks sosial-budaya Islam dan semangat *ijtihad* yang menginspirasi karya-karya revolusioner tersebut.
+
+## Mengapa Buku Ini Penting?
+
+Kontribusi ilmuwan Muslim dalam matematika, statistika, dan kecerdasan buatan seringkali kurang dikenal atau bahkan terlupakan dalam narasi sejarah ilmu pengetahuan mainstream. Buku ini hadir untuk:
+
+- **Mengungkap sejarah yang tersembunyi**: Menampilkan tokoh-tokoh yang karya mereka menjadi fondasi ilmu modern
+- **Menginspirasi generasi baru**: Memotivasi mahasiswa STEM Muslim dan non-Muslim untuk mengeksplorasi warisan intelektual Islam
+- **Membangun jembatan**: Menghubungkan tradisi keilmuan Islam klasik dengan perkembangan teknologi kontemporer
+
+## Struktur Buku
+
+Buku ini terbagi dalam tiga bagian utama:
+
+1. **Matematika**: Dari Al-Khwarizmi yang memperkenalkan aljabar hingga Maryam Mirzakhani, matematikawan wanita Muslim pertama peraih Fields Medal
+2. **Statistika**: Dari kontribusi awal Ibn Ad-Dana hingga para biostatistikawan Muslim modern
+3. **Kecerdasan Buatan & Data Science**: Dari pionir komputasi hingga peneliti AI kontemporer yang meraih Turing Award
+
+Selamat membaca, dan semoga kisah-kisah dalam buku ini dapat menginspirasi perjalanan intelektual Anda!

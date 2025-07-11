@@ -1,0 +1,17 @@
+# Dina Katabi: AI for Health {#sec-dina-katabi}
+
+## Pendahuluan
+
+Prof. Dina Katabi adalah computer scientist yang mengembangkan aplikasi AI untuk healthcare dan wireless systems.
+
+## Kontribusi
+
+### RF-Sensing
+Penggunaan radio frequency untuk health monitoring non-invasive.
+
+### Wireless AI
+Aplikasi machine learning dalam wireless network optimization.
+
+---
+
+*[Catatan: Placeholder chapter untuk dikembangkan lebih lanjut.]*
