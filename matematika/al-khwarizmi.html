@@ -1,0 +1,991 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.32">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>1&nbsp; Al-Khwarizmi: Bapak Aljabar – Cendekia Muslim: Matematika, Statistika &amp; Kecerdasan Buatan</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../matematika/omar-khayyam.html" rel="next">
+<link href="../index.html" rel="prev">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-0d4cf52e7b526517c9583465fb90134a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+</head>
+
+<body class="nav-sidebar floating quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../matematika/al-khwarizmi.html">Matematika: Fondasi Ilmu Hitung</a></li><li class="breadcrumb-item"><a href="../matematika/al-khwarizmi.html"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Al-Khwarizmi: Bapak Aljabar</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="../">Cendekia Muslim: Matematika, Statistika &amp; Kecerdasan Buatan</a> 
+        <div class="sidebar-tools-main">
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Selamat Datang</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Matematika: Fondasi Ilmu Hitung</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../matematika/al-khwarizmi.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Al-Khwarizmi: Bapak Aljabar</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../matematika/omar-khayyam.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Omar Khayyam: Geometri dan Puisi</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../matematika/maryam-mirzakhani.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Maryam Mirzakhani: Fields Medal Pertama</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../matematika/kamal-al-farisi.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Kamal al-Din al-Farisi: Geometri Optik</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Statistika: Ilmu Data dan Probabilitas</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../statistika/al-razi.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Al-Razi: Pelopor Evidence-Based Medicine</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../statistika/salim-yusuf.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Salim Yusuf: Meta-analisis Global</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../statistika/hanan-khadr.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Hanan Khadr: Statistika Sosial</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../statistika/metodologi-islam.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Metodologi Statistik dalam Tradisi Islam</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
+ <span class="menu-text">Kecerdasan Buatan &amp; Data Science</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ai/al-kindi.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Al-Kindi: Pelopor Computational Thinking</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ai/yoshua-bengio.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Yoshua Bengio: Deep Learning Pioneer</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ai/nizar-habash.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Nizar Habash: Arabic NLP Pioneer</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ai/dina-katabi.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Dina Katabi: AI for Health</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../ai/etika-ai-islam.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Etika AI dalam Perspektif Islam</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
+ <span class="menu-text">Appendices</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">A</span>&nbsp; <span class="chapter-title">References</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
+<script src="https://cdn.usefathom.com/script.js" data-site="QDWZORBB" defer=""></script>
+
+</div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#pendahuluan" id="toc-pendahuluan" class="nav-link active" data-scroll-target="#pendahuluan"><span class="header-section-number">1.1</span> Pendahuluan</a></li>
+  <li><a href="#latar-belakang-dan-konteks-sejarah" id="toc-latar-belakang-dan-konteks-sejarah" class="nav-link" data-scroll-target="#latar-belakang-dan-konteks-sejarah"><span class="header-section-number">1.2</span> Latar Belakang dan Konteks Sejarah</a>
+  <ul class="collapse">
+  <li><a href="#baghdad-pusat-keilmuan-dunia" id="toc-baghdad-pusat-keilmuan-dunia" class="nav-link" data-scroll-target="#baghdad-pusat-keilmuan-dunia"><span class="header-section-number">1.2.1</span> Baghdad: Pusat Keilmuan Dunia</a></li>
+  <li><a href="#khwarezm-tanah-kelahiran-yang-subur" id="toc-khwarezm-tanah-kelahiran-yang-subur" class="nav-link" data-scroll-target="#khwarezm-tanah-kelahiran-yang-subur"><span class="header-section-number">1.2.2</span> Khwarezm: Tanah Kelahiran yang Subur</a></li>
+  </ul></li>
+  <li><a href="#kontribusi-revolusioner-dalam-matematika" id="toc-kontribusi-revolusioner-dalam-matematika" class="nav-link" data-scroll-target="#kontribusi-revolusioner-dalam-matematika"><span class="header-section-number">1.3</span> Kontribusi Revolusioner dalam Matematika</a>
+  <ul class="collapse">
+  <li><a href="#kelahiran-aljabar-sebagai-disiplin-mandiri" id="toc-kelahiran-aljabar-sebagai-disiplin-mandiri" class="nav-link" data-scroll-target="#kelahiran-aljabar-sebagai-disiplin-mandiri"><span class="header-section-number">1.3.1</span> 1. Kelahiran Aljabar sebagai Disiplin Mandiri</a></li>
+  <li><a href="#sistem-angka-hindu-arab" id="toc-sistem-angka-hindu-arab" class="nav-link" data-scroll-target="#sistem-angka-hindu-arab"><span class="header-section-number">1.3.2</span> 2. Sistem Angka Hindu-Arab</a></li>
+  <li><a href="#metode-algoritma-sistematis" id="toc-metode-algoritma-sistematis" class="nav-link" data-scroll-target="#metode-algoritma-sistematis"><span class="header-section-number">1.3.3</span> 3. Metode Algoritma Sistematis</a></li>
+  </ul></li>
+  <li><a href="#karya-karya-utama" id="toc-karya-karya-utama" class="nav-link" data-scroll-target="#karya-karya-utama"><span class="header-section-number">1.4</span> Karya-Karya Utama</a>
+  <ul class="collapse">
+  <li><a href="#al-kitab-al-mukhtasar-fi-hisab-al-jabr-wal-muqabala" id="toc-al-kitab-al-mukhtasar-fi-hisab-al-jabr-wal-muqabala" class="nav-link" data-scroll-target="#al-kitab-al-mukhtasar-fi-hisab-al-jabr-wal-muqabala"><span class="header-section-number">1.4.1</span> Al-Kitab al-mukhtasar fi hisab al-jabr wa’l-muqabala</a></li>
+  <li><a href="#zij-al-sindhind-tabel-astronomi" id="toc-zij-al-sindhind-tabel-astronomi" class="nav-link" data-scroll-target="#zij-al-sindhind-tabel-astronomi"><span class="header-section-number">1.4.2</span> Zij al-Sindhind (Tabel Astronomi)</a></li>
+  <li><a href="#kitab-surat-al-ard-buku-gambaran-bumi" id="toc-kitab-surat-al-ard-buku-gambaran-bumi" class="nav-link" data-scroll-target="#kitab-surat-al-ard-buku-gambaran-bumi"><span class="header-section-number">1.4.3</span> Kitab Surat al-Ard (Buku Gambaran Bumi)</a></li>
+  </ul></li>
+  <li><a href="#dimensi-keislaman-dalam-karya-al-khwarizmi" id="toc-dimensi-keislaman-dalam-karya-al-khwarizmi" class="nav-link" data-scroll-target="#dimensi-keislaman-dalam-karya-al-khwarizmi"><span class="header-section-number">1.5</span> Dimensi Keislaman dalam Karya Al-Khwarizmi</a>
+  <ul class="collapse">
+  <li><a href="#motivasi-spiritual" id="toc-motivasi-spiritual" class="nav-link" data-scroll-target="#motivasi-spiritual"><span class="header-section-number">1.5.1</span> Motivasi Spiritual</a></li>
+  <li><a href="#aplikasi-dalam-kehidupan-keagamaan" id="toc-aplikasi-dalam-kehidupan-keagamaan" class="nav-link" data-scroll-target="#aplikasi-dalam-kehidupan-keagamaan"><span class="header-section-number">1.5.2</span> Aplikasi dalam Kehidupan Keagamaan</a></li>
+  <li><a href="#etika-keilmuan-islam" id="toc-etika-keilmuan-islam" class="nav-link" data-scroll-target="#etika-keilmuan-islam"><span class="header-section-number">1.5.3</span> Etika Keilmuan Islam</a></li>
+  </ul></li>
+  <li><a href="#transmisi-ke-eropa-dan-dampak-global" id="toc-transmisi-ke-eropa-dan-dampak-global" class="nav-link" data-scroll-target="#transmisi-ke-eropa-dan-dampak-global"><span class="header-section-number">1.6</span> Transmisi ke Eropa dan Dampak Global</a>
+  <ul class="collapse">
+  <li><a href="#terjemahan-ke-latin" id="toc-terjemahan-ke-latin" class="nav-link" data-scroll-target="#terjemahan-ke-latin"><span class="header-section-number">1.6.1</span> Terjemahan ke Latin</a></li>
+  <li><a href="#pengaruh-pada-matematikawan-eropa" id="toc-pengaruh-pada-matematikawan-eropa" class="nav-link" data-scroll-target="#pengaruh-pada-matematikawan-eropa"><span class="header-section-number">1.6.2</span> Pengaruh pada Matematikawan Eropa</a></li>
+  </ul></li>
+  <li><a href="#warisan-dalam-matematika-modern" id="toc-warisan-dalam-matematika-modern" class="nav-link" data-scroll-target="#warisan-dalam-matematika-modern"><span class="header-section-number">1.7</span> Warisan dalam Matematika Modern</a>
+  <ul class="collapse">
+  <li><a href="#aljabar-abstrak" id="toc-aljabar-abstrak" class="nav-link" data-scroll-target="#aljabar-abstrak"><span class="header-section-number">1.7.1</span> Aljabar Abstrak</a></li>
+  <li><a href="#ilmu-komputer" id="toc-ilmu-komputer" class="nav-link" data-scroll-target="#ilmu-komputer"><span class="header-section-number">1.7.2</span> Ilmu Komputer</a></li>
+  <li><a href="#kriptografi" id="toc-kriptografi" class="nav-link" data-scroll-target="#kriptografi"><span class="header-section-number">1.7.3</span> Kriptografi</a></li>
+  </ul></li>
+  <li><a href="#pembelajaran-untuk-era-digital" id="toc-pembelajaran-untuk-era-digital" class="nav-link" data-scroll-target="#pembelajaran-untuk-era-digital"><span class="header-section-number">1.8</span> Pembelajaran untuk Era Digital</a>
+  <ul class="collapse">
+  <li><a href="#relevansi-dalam-pendidikan-stem" id="toc-relevansi-dalam-pendidikan-stem" class="nav-link" data-scroll-target="#relevansi-dalam-pendidikan-stem"><span class="header-section-number">1.8.1</span> Relevansi dalam Pendidikan STEM</a></li>
+  <li><a href="#inspirasi-untuk-peneliti-muslim" id="toc-inspirasi-untuk-peneliti-muslim" class="nav-link" data-scroll-target="#inspirasi-untuk-peneliti-muslim"><span class="header-section-number">1.8.2</span> Inspirasi untuk Peneliti Muslim</a></li>
+  </ul></li>
+  <li><a href="#refleksi-dan-penutup" id="toc-refleksi-dan-penutup" class="nav-link" data-scroll-target="#refleksi-dan-penutup"><span class="header-section-number">1.9</span> Refleksi dan Penutup</a></li>
+  <li><a href="#sumber-dan-referensi" id="toc-sumber-dan-referensi" class="nav-link" data-scroll-target="#sumber-dan-referensi"><span class="header-section-number">1.10</span> Sumber dan Referensi</a>
+  <ul class="collapse">
+  <li><a href="#sumber-primer" id="toc-sumber-primer" class="nav-link" data-scroll-target="#sumber-primer"><span class="header-section-number">1.10.1</span> Sumber Primer</a></li>
+  <li><a href="#sumber-sekunder" id="toc-sumber-sekunder" class="nav-link" data-scroll-target="#sumber-sekunder"><span class="header-section-number">1.10.2</span> Sumber Sekunder</a></li>
+  <li><a href="#sumber-modern" id="toc-sumber-modern" class="nav-link" data-scroll-target="#sumber-modern"><span class="header-section-number">1.10.3</span> Sumber Modern</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../matematika/al-khwarizmi.html">Matematika: Fondasi Ilmu Hitung</a></li><li class="breadcrumb-item"><a href="../matematika/al-khwarizmi.html"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Al-Khwarizmi: Bapak Aljabar</span></a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title"><span id="sec-al-khwarizmi" class="quarto-section-identifier"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Al-Khwarizmi: Bapak Aljabar</span></span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<blockquote class="blockquote">
+<p><em>“Sesungguhnya dalam penciptaan langit dan bumi, silih bergantinya malam dan siang, terdapat tanda-tanda bagi orang-orang yang berakal.”</em> - QS Ali Imran: 190</p>
+</blockquote>
+<section id="pendahuluan" class="level2" data-number="1.1">
+<h2 data-number="1.1" class="anchored" data-anchor-id="pendahuluan"><span class="header-section-number">1.1</span> Pendahuluan</h2>
+<p>Abu Abdullah Muhammad ibn Musa al-Khwarizmi (780-850 M) adalah salah satu matematikawan paling berpengaruh dalam sejarah umat manusia. Nama “aljabar” yang kita kenal hari ini berasal dari karyanya <em>“Al-Kitab al-mukhtasar fi hisab al-jabr wa’l-muqabala”</em> (Buku Ringkas tentang Perhitungan dengan Melengkapkan dan Menyeimbangkan). Lebih dari itu, kata “algoritma” dalam bahasa Inggris juga berasal dari nama latinnya, Algoritmi.</p>
+</section>
+<section id="latar-belakang-dan-konteks-sejarah" class="level2" data-number="1.2">
+<h2 data-number="1.2" class="anchored" data-anchor-id="latar-belakang-dan-konteks-sejarah"><span class="header-section-number">1.2</span> Latar Belakang dan Konteks Sejarah</h2>
+<section id="baghdad-pusat-keilmuan-dunia" class="level3" data-number="1.2.1">
+<h3 data-number="1.2.1" class="anchored" data-anchor-id="baghdad-pusat-keilmuan-dunia"><span class="header-section-number">1.2.1</span> Baghdad: Pusat Keilmuan Dunia</h3>
+<p>Al-Khwarizmi hidup pada masa keemasan Dinasti Abbasiyah di bawah Khalifah Al-Ma’mun (813-833 M). Baghdad pada masa ini telah menjadi pusat keilmuan dunia, tempat di mana berbagai tradisi intelektual—Yunani, Persia, India, dan Arab—bertemu dan saling membuahi.</p>
+<p>Baitul Hikmah (House of Wisdom), di mana Al-Khwarizmi bekerja, bukan hanya perpustakaan besar tetapi juga pusat penelitian dan terjemahan. Di sinilah karya-karya Aristoteles, Ptolemy, Euclid, dan banyak filsuf serta matematikawan lainnya diterjemahkan ke dalam bahasa Arab dan dikembangkan lebih lanjut.</p>
+</section>
+<section id="khwarezm-tanah-kelahiran-yang-subur" class="level3" data-number="1.2.2">
+<h3 data-number="1.2.2" class="anchored" data-anchor-id="khwarezm-tanah-kelahiran-yang-subur"><span class="header-section-number">1.2.2</span> Khwarezm: Tanah Kelahiran yang Subur</h3>
+<p>Al-Khwarizmi lahir di Khwarezm, wilayah yang kini menjadi bagian dari Uzbekistan. Daerah ini terkenal sebagai pusat perdagangan dan keilmuan di Asia Tengah. Tradisi matematika dan astronomi telah berkembang di wilayah ini jauh sebelum Islam, dan Al-Khwarizmi mewarisi tradisi yang kaya ini.</p>
+</section>
+</section>
+<section id="kontribusi-revolusioner-dalam-matematika" class="level2" data-number="1.3">
+<h2 data-number="1.3" class="anchored" data-anchor-id="kontribusi-revolusioner-dalam-matematika"><span class="header-section-number">1.3</span> Kontribusi Revolusioner dalam Matematika</h2>
+<section id="kelahiran-aljabar-sebagai-disiplin-mandiri" class="level3" data-number="1.3.1">
+<h3 data-number="1.3.1" class="anchored" data-anchor-id="kelahiran-aljabar-sebagai-disiplin-mandiri"><span class="header-section-number">1.3.1</span> 1. Kelahiran Aljabar sebagai Disiplin Mandiri</h3>
+<p>Sebelum Al-Khwarizmi, tidak ada disiplin matematika yang secara khusus menangani persamaan dan manipulasi simbolik. Karyanya <em>“Al-jabr wa’l-muqabala”</em> memperkenalkan:</p>
+<ul>
+<li><strong>Al-jabr</strong> (الجبر): “melengkapkan” atau menambahkan suku yang sama ke kedua ruas</li>
+<li><strong>Al-muqabala</strong> (المقابلة): “menyeimbangkan” atau menyederhanakan dengan menghilangkan suku yang sama</li>
+</ul>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Contoh sederhana metode al-jabr</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="co"># Persamaan: x² + 10x = 39</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="co"># Al-Khwarizmi akan menyelesaikan ini dengan geometri</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</section>
+<section id="sistem-angka-hindu-arab" class="level3" data-number="1.3.2">
+<h3 data-number="1.3.2" class="anchored" data-anchor-id="sistem-angka-hindu-arab"><span class="header-section-number">1.3.2</span> 2. Sistem Angka Hindu-Arab</h3>
+<p>Al-Khwarizmi berperan penting dalam memperkenalkan sistem angka desimal dari India ke dunia Islam, yang kemudian menyebar ke Eropa. Karyanya tentang aritmatika Hindu (<em>Algoritmi de numero Indorum</em>) menjadi jembatan penting dalam transmisi pengetahuan ini.</p>
+</section>
+<section id="metode-algoritma-sistematis" class="level3" data-number="1.3.3">
+<h3 data-number="1.3.3" class="anchored" data-anchor-id="metode-algoritma-sistematis"><span class="header-section-number">1.3.3</span> 3. Metode Algoritma Sistematis</h3>
+<p>Al-Khwarizmi mengembangkan prosedur langkah-demi-langkah yang jelas untuk menyelesaikan berbagai jenis persamaan. Pendekatan sistematis ini menjadi fondasi dari apa yang kini kita sebut “algoritma.”</p>
+</section>
+</section>
+<section id="karya-karya-utama" class="level2" data-number="1.4">
+<h2 data-number="1.4" class="anchored" data-anchor-id="karya-karya-utama"><span class="header-section-number">1.4</span> Karya-Karya Utama</h2>
+<section id="al-kitab-al-mukhtasar-fi-hisab-al-jabr-wal-muqabala" class="level3" data-number="1.4.1">
+<h3 data-number="1.4.1" class="anchored" data-anchor-id="al-kitab-al-mukhtasar-fi-hisab-al-jabr-wal-muqabala"><span class="header-section-number">1.4.1</span> Al-Kitab al-mukhtasar fi hisab al-jabr wa’l-muqabala</h3>
+<p>Karya monumentalnya ini terdiri dari enam jenis persamaan dasar: 1. <span class="math inline">\(ax^2 = bx\)</span> (kuadrat sama dengan akar) 2. <span class="math inline">\(ax^2 = c\)</span> (kuadrat sama dengan bilangan) 3. <span class="math inline">\(bx = c\)</span> (akar sama dengan bilangan) 4. <span class="math inline">\(ax^2 + bx = c\)</span> (kuadrat dan akar sama dengan bilangan) 5. <span class="math inline">\(ax^2 + c = bx\)</span> (kuadrat dan bilangan sama dengan akar) 6. <span class="math inline">\(bx + c = ax^2\)</span> (akar dan bilangan sama dengan kuadrat)</p>
+</section>
+<section id="zij-al-sindhind-tabel-astronomi" class="level3" data-number="1.4.2">
+<h3 data-number="1.4.2" class="anchored" data-anchor-id="zij-al-sindhind-tabel-astronomi"><span class="header-section-number">1.4.2</span> Zij al-Sindhind (Tabel Astronomi)</h3>
+<p>Karya astronomi yang mengadaptasi karya India <em>Siddhanta</em> dengan koreksi dan penyempurnaan berdasarkan observasi yang lebih akurat.</p>
+</section>
+<section id="kitab-surat-al-ard-buku-gambaran-bumi" class="level3" data-number="1.4.3">
+<h3 data-number="1.4.3" class="anchored" data-anchor-id="kitab-surat-al-ard-buku-gambaran-bumi"><span class="header-section-number">1.4.3</span> Kitab Surat al-Ard (Buku Gambaran Bumi)</h3>
+<p>Karya geografi yang memberikan koordinat lebih dari 2.400 lokasi di dunia yang dikenal pada masanya.</p>
+</section>
+</section>
+<section id="dimensi-keislaman-dalam-karya-al-khwarizmi" class="level2" data-number="1.5">
+<h2 data-number="1.5" class="anchored" data-anchor-id="dimensi-keislaman-dalam-karya-al-khwarizmi"><span class="header-section-number">1.5</span> Dimensi Keislaman dalam Karya Al-Khwarizmi</h2>
+<section id="motivasi-spiritual" class="level3" data-number="1.5.1">
+<h3 data-number="1.5.1" class="anchored" data-anchor-id="motivasi-spiritual"><span class="header-section-number">1.5.1</span> Motivasi Spiritual</h3>
+<p>Bagi Al-Khwarizmi, matematika bukan sekadar alat praktis tetapi cara untuk memahami keteraturan ciptaan Allah. Dalam tradisi Islam, pencarian ilmu (<em>thalab al-’ilm</em>) adalah kewajiban setiap Muslim, dan matematika dipandang sebagai bahasa universal untuk membaca “ayat-ayat” Allah di alam semesta.</p>
+</section>
+<section id="aplikasi-dalam-kehidupan-keagamaan" class="level3" data-number="1.5.2">
+<h3 data-number="1.5.2" class="anchored" data-anchor-id="aplikasi-dalam-kehidupan-keagamaan"><span class="header-section-number">1.5.2</span> Aplikasi dalam Kehidupan Keagamaan</h3>
+<p>Metode-metode matematika yang dikembangkan Al-Khwarizmi memiliki aplikasi langsung dalam kehidupan keagamaan:</p>
+<ul>
+<li><strong>Hisab Falak</strong>: Perhitungan astronomi untuk menentukan waktu shalat dan arah kiblat</li>
+<li><strong>Faraidh</strong>: Sistem pembagian warisan yang memerlukan pemecahan persamaan linear</li>
+<li><strong>Kalender Hijriyah</strong>: Perhitungan siklus bulan untuk menentukan bulan-bulan Islam</li>
+</ul>
+</section>
+<section id="etika-keilmuan-islam" class="level3" data-number="1.5.3">
+<h3 data-number="1.5.3" class="anchored" data-anchor-id="etika-keilmuan-islam"><span class="header-section-number">1.5.3</span> Etika Keilmuan Islam</h3>
+<p>Al-Khwarizmi menunjukkan etika keilmuan Islam yang tinggi: - <strong>Kerendahan hati</strong>: Mengakui kontribusi matematikawan sebelumnya - <strong>Universalitas</strong>: Menerima pengetahuan dari berbagai tradisi - <strong>Kemanfaatan</strong>: Mengembangkan ilmu untuk kemaslahatan umat</p>
+</section>
+</section>
+<section id="transmisi-ke-eropa-dan-dampak-global" class="level2" data-number="1.6">
+<h2 data-number="1.6" class="anchored" data-anchor-id="transmisi-ke-eropa-dan-dampak-global"><span class="header-section-number">1.6</span> Transmisi ke Eropa dan Dampak Global</h2>
+<section id="terjemahan-ke-latin" class="level3" data-number="1.6.1">
+<h3 data-number="1.6.1" class="anchored" data-anchor-id="terjemahan-ke-latin"><span class="header-section-number">1.6.1</span> Terjemahan ke Latin</h3>
+<p>Karya Al-Khwarizmi diterjemahkan ke dalam bahasa Latin pada abad ke-12 oleh Robert of Chester dan Gerard of Cremona. Terjemahan-terjemahan ini menjadi buku teks standar di universitas-universitas Eropa selama berabad-abad.</p>
+</section>
+<section id="pengaruh-pada-matematikawan-eropa" class="level3" data-number="1.6.2">
+<h3 data-number="1.6.2" class="anchored" data-anchor-id="pengaruh-pada-matematikawan-eropa"><span class="header-section-number">1.6.2</span> Pengaruh pada Matematikawan Eropa</h3>
+<ul>
+<li><strong>Leonardo Fibonacci</strong> menggunakan metode Al-Khwarizmi dalam <em>Liber Abaci</em></li>
+<li><strong>Johannes Kepler</strong> menerapkan teknik aljabar dalam astronomi</li>
+<li><strong>René Descartes</strong> mengembangkan geometri analitik berdasarkan fondasi yang diletakkan Al-Khwarizmi</li>
+</ul>
+</section>
+</section>
+<section id="warisan-dalam-matematika-modern" class="level2" data-number="1.7">
+<h2 data-number="1.7" class="anchored" data-anchor-id="warisan-dalam-matematika-modern"><span class="header-section-number">1.7</span> Warisan dalam Matematika Modern</h2>
+<section id="aljabar-abstrak" class="level3" data-number="1.7.1">
+<h3 data-number="1.7.1" class="anchored" data-anchor-id="aljabar-abstrak"><span class="header-section-number">1.7.1</span> Aljabar Abstrak</h3>
+<p>Meskipun Al-Khwarizmi bekerja dengan aljabar geometris, konsep-konsep yang diperkenalkannya menjadi fondasi bagi pengembangan: - Teori grup - Aljabar linear - Aljabar abstrak modern</p>
+</section>
+<section id="ilmu-komputer" class="level3" data-number="1.7.2">
+<h3 data-number="1.7.2" class="anchored" data-anchor-id="ilmu-komputer"><span class="header-section-number">1.7.2</span> Ilmu Komputer</h3>
+<p>Konsep algoritma yang diperkenalkan Al-Khwarizmi menjadi dasar dari: - Pemrograman komputer - Algoritma optimisasi - Machine learning</p>
+</section>
+<section id="kriptografi" class="level3" data-number="1.7.3">
+<h3 data-number="1.7.3" class="anchored" data-anchor-id="kriptografi"><span class="header-section-number">1.7.3</span> Kriptografi</h3>
+<p>Metode sistematis Al-Khwarizmi dalam pemecahan masalah mempengaruhi perkembangan kriptografi modern, sebuah ironi karena muridnya, Al-Kindi, adalah penemu cryptanalysis.</p>
+</section>
+</section>
+<section id="pembelajaran-untuk-era-digital" class="level2" data-number="1.8">
+<h2 data-number="1.8" class="anchored" data-anchor-id="pembelajaran-untuk-era-digital"><span class="header-section-number">1.8</span> Pembelajaran untuk Era Digital</h2>
+<section id="relevansi-dalam-pendidikan-stem" class="level3" data-number="1.8.1">
+<h3 data-number="1.8.1" class="anchored" data-anchor-id="relevansi-dalam-pendidikan-stem"><span class="header-section-number">1.8.1</span> Relevansi dalam Pendidikan STEM</h3>
+<p>Pendekatan Al-Khwarizmi yang menggabungkan intuisi geometris dengan manipulasi simbolik tetap relevan dalam pendidikan matematika modern:</p>
+<ol type="1">
+<li><strong>Visualisasi</strong>: Menggunakan representasi geometris untuk memahami konsep aljabar</li>
+<li><strong>Systematicity</strong>: Mengembangkan prosedur langkah-demi-langkah yang jelas</li>
+<li><strong>Aplikasi</strong>: Menghubungkan teori dengan masalah praktis</li>
+</ol>
+</section>
+<section id="inspirasi-untuk-peneliti-muslim" class="level3" data-number="1.8.2">
+<h3 data-number="1.8.2" class="anchored" data-anchor-id="inspirasi-untuk-peneliti-muslim"><span class="header-section-number">1.8.2</span> Inspirasi untuk Peneliti Muslim</h3>
+<p>Kisah Al-Khwarizmi menunjukkan bahwa: - Tradisi keilmuan Islam memiliki kontribusi fundamental bagi peradaban - Sintesis antara berbagai tradisi intelektual menghasilkan inovasi - Motivasi spiritual dapat mendorong pencapaian ilmiah yang luar biasa</p>
+</section>
+</section>
+<section id="refleksi-dan-penutup" class="level2" data-number="1.9">
+<h2 data-number="1.9" class="anchored" data-anchor-id="refleksi-dan-penutup"><span class="header-section-number">1.9</span> Refleksi dan Penutup</h2>
+<p>Al-Khwarizmi bukan hanya seorang matematikawan; ia adalah simbol dari semangat keilmuan Islam yang universal, terbuka, dan berorientasi pada kemanfaatan. Karyanya menunjukkan bahwa ilmu pengetahuan tidak mengenal batas agama, etnisitas, atau budaya—tetapi justru dikembangkan melalui dialog dan kolaborasi antar peradaban.</p>
+<p>Dalam era digital saat ini, di mana algoritma mendorong hampir setiap aspek kehidupan kita, nama Al-Khwarizmi mengingatkan kita akan pentingnya melihat teknologi bukan sebagai tujuan, tetapi sebagai sarana untuk mencapai kebaikan yang lebih besar bagi umat manusia.</p>
+<blockquote class="blockquote">
+<p><em>“Dan demikian pulalah Kami jadikan kamu (umat Islam) umat pertengahan agar kamu menjadi saksi atas manusia.”</em> - QS Al-Baqarah: 143</p>
+</blockquote>
+<hr>
+</section>
+<section id="sumber-dan-referensi" class="level2" data-number="1.10">
+<h2 data-number="1.10" class="anchored" data-anchor-id="sumber-dan-referensi"><span class="header-section-number">1.10</span> Sumber dan Referensi</h2>
+<section id="sumber-primer" class="level3" data-number="1.10.1">
+<h3 data-number="1.10.1" class="anchored" data-anchor-id="sumber-primer"><span class="header-section-number">1.10.1</span> Sumber Primer</h3>
+<ul>
+<li>Al-Khwarizmi, Muhammad ibn Musa. <em>Al-Kitab al-mukhtasar fi hisab al-jabr wa’l-muqabala</em></li>
+<li>Terjemahan Latin: <em>Algoritmi de numero Indorum</em></li>
+</ul>
+</section>
+<section id="sumber-sekunder" class="level3" data-number="1.10.2">
+<h3 data-number="1.10.2" class="anchored" data-anchor-id="sumber-sekunder"><span class="header-section-number">1.10.2</span> Sumber Sekunder</h3>
+<ul>
+<li>Boyer, Carl B. <em>A History of Mathematics</em>. New York: Wiley, 1991.</li>
+<li>Rashed, Roshdi. <em>The Development of Arabic Mathematics: Between Arithmetic and Algebra</em>. London: Kluwer, 1994.</li>
+<li>Saliba, George. <em>Islamic Science and the Making of the European Renaissance</em>. Cambridge: MIT Press, 2007.</li>
+</ul>
+</section>
+<section id="sumber-modern" class="level3" data-number="1.10.3">
+<h3 data-number="1.10.3" class="anchored" data-anchor-id="sumber-modern"><span class="header-section-number">1.10.3</span> Sumber Modern</h3>
+<ul>
+<li>Sesiano, Jacques. “Islamic Mathematics.” In <em>Companion Encyclopedia of the History and Philosophy of the Mathematical Sciences</em>, edited by I. Grattan-Guinness. London: Routledge, 1994.</li>
+<li>Berggren, J.L. <em>Episodes in the Mathematics of Medieval Islam</em>. New York: Springer, 2016.</li>
+</ul>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../index.html" class="pagination-link" aria-label="Selamat Datang">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Selamat Datang</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../matematika/omar-khayyam.html" class="pagination-link" aria-label="Omar Khayyam: Geometri dan Puisi">
+        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Omar Khayyam: Geometri dan Puisi</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>This book was built with <a href="https://quarto.org/">Quarto</a>.</p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

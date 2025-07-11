@@ -1,0 +1,747 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cendekia Muslim: Matematika, Statistika & Kecerdasan Buatan",
+    "section": "",
+    "text": "Selamat Datang\nBuku ini adalah antologi yang menampilkan kisah-kisah inspiratif tentang penemuan dan kontribusi para ilmuwan Muslim dari masa klasik hingga kontemporer di tiga bidang utama: Matematika, Statistika, dan Kecerdasan Buatan (Artificial Intelligence).\nDengan menggali warisan intelektual yang kaya dari peradaban Islam, buku ini menghadirkan minimal 12 tokoh yang telah memberikan dampak signifikan bagi perkembangan ilmu pengetahuan modern. Setiap kisah tidak hanya menyoroti pencapaian ilmiah mereka, tetapi juga konteks sosial-budaya Islam dan semangat ijtihad yang menginspirasi karya-karya revolusioner tersebut.",
+    "crumbs": [
+      "Selamat Datang"
+    ]
+  },
+  {
+    "objectID": "index.html#mengapa-buku-ini-penting",
+    "href": "index.html#mengapa-buku-ini-penting",
+    "title": "Cendekia Muslim: Matematika, Statistika & Kecerdasan Buatan",
+    "section": "Mengapa Buku Ini Penting?",
+    "text": "Mengapa Buku Ini Penting?\nKontribusi ilmuwan Muslim dalam matematika, statistika, dan kecerdasan buatan seringkali kurang dikenal atau bahkan terlupakan dalam narasi sejarah ilmu pengetahuan mainstream. Buku ini hadir untuk:\n\nMengungkap sejarah yang tersembunyi: Menampilkan tokoh-tokoh yang karya mereka menjadi fondasi ilmu modern\nMenginspirasi generasi baru: Memotivasi mahasiswa STEM Muslim dan non-Muslim untuk mengeksplorasi warisan intelektual Islam\nMembangun jembatan: Menghubungkan tradisi keilmuan Islam klasik dengan perkembangan teknologi kontemporer",
+    "crumbs": [
+      "Selamat Datang"
+    ]
+  },
+  {
+    "objectID": "index.html#struktur-buku",
+    "href": "index.html#struktur-buku",
+    "title": "Cendekia Muslim: Matematika, Statistika & Kecerdasan Buatan",
+    "section": "Struktur Buku",
+    "text": "Struktur Buku\nBuku ini terbagi dalam tiga bagian utama:\n\nMatematika: Dari Al-Khwarizmi yang memperkenalkan aljabar hingga Maryam Mirzakhani, matematikawan wanita Muslim pertama peraih Fields Medal\nStatistika: Dari kontribusi awal Ibn Ad-Dana hingga para biostatistikawan Muslim modern\nKecerdasan Buatan & Data Science: Dari pionir komputasi hingga peneliti AI kontemporer yang meraih Turing Award\n\nSelamat membaca, dan semoga kisah-kisah dalam buku ini dapat menginspirasi perjalanan intelektual Anda!",
+    "crumbs": [
+      "Selamat Datang"
+    ]
+  },
+  {
+    "objectID": "matematika/al-khwarizmi.html",
+    "href": "matematika/al-khwarizmi.html",
+    "title": "1  Al-Khwarizmi: Bapak Aljabar",
+    "section": "",
+    "text": "1.1 Pendahuluan\nAbu Abdullah Muhammad ibn Musa al-Khwarizmi (780-850 M) adalah salah satu matematikawan paling berpengaruh dalam sejarah umat manusia. Nama “aljabar” yang kita kenal hari ini berasal dari karyanya “Al-Kitab al-mukhtasar fi hisab al-jabr wa’l-muqabala” (Buku Ringkas tentang Perhitungan dengan Melengkapkan dan Menyeimbangkan). Lebih dari itu, kata “algoritma” dalam bahasa Inggris juga berasal dari nama latinnya, Algoritmi.",
+    "crumbs": [
+      "Matematika: Fondasi Ilmu Hitung",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Al-Khwarizmi: Bapak Aljabar</span>"
+    ]
+  },
+  {
+    "objectID": "matematika/al-khwarizmi.html#latar-belakang-dan-konteks-sejarah",
+    "href": "matematika/al-khwarizmi.html#latar-belakang-dan-konteks-sejarah",
+    "title": "1  Al-Khwarizmi: Bapak Aljabar",
+    "section": "1.2 Latar Belakang dan Konteks Sejarah",
+    "text": "1.2 Latar Belakang dan Konteks Sejarah\n\n1.2.1 Baghdad: Pusat Keilmuan Dunia\nAl-Khwarizmi hidup pada masa keemasan Dinasti Abbasiyah di bawah Khalifah Al-Ma’mun (813-833 M). Baghdad pada masa ini telah menjadi pusat keilmuan dunia, tempat di mana berbagai tradisi intelektual—Yunani, Persia, India, dan Arab—bertemu dan saling membuahi.\nBaitul Hikmah (House of Wisdom), di mana Al-Khwarizmi bekerja, bukan hanya perpustakaan besar tetapi juga pusat penelitian dan terjemahan. Di sinilah karya-karya Aristoteles, Ptolemy, Euclid, dan banyak filsuf serta matematikawan lainnya diterjemahkan ke dalam bahasa Arab dan dikembangkan lebih lanjut.\n\n\n1.2.2 Khwarezm: Tanah Kelahiran yang Subur\nAl-Khwarizmi lahir di Khwarezm, wilayah yang kini menjadi bagian dari Uzbekistan. Daerah ini terkenal sebagai pusat perdagangan dan keilmuan di Asia Tengah. Tradisi matematika dan astronomi telah berkembang di wilayah ini jauh sebelum Islam, dan Al-Khwarizmi mewarisi tradisi yang kaya ini.",
+    "crumbs": [
+      "Matematika: Fondasi Ilmu Hitung",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Al-Khwarizmi: Bapak Aljabar</span>"
+    ]
+  },
+  {
+    "objectID": "matematika/al-khwarizmi.html#kontribusi-revolusioner-dalam-matematika",
+    "href": "matematika/al-khwarizmi.html#kontribusi-revolusioner-dalam-matematika",
+    "title": "1  Al-Khwarizmi: Bapak Aljabar",
+    "section": "1.3 Kontribusi Revolusioner dalam Matematika",
+    "text": "1.3 Kontribusi Revolusioner dalam Matematika\n\n1.3.1 1. Kelahiran Aljabar sebagai Disiplin Mandiri\nSebelum Al-Khwarizmi, tidak ada disiplin matematika yang secara khusus menangani persamaan dan manipulasi simbolik. Karyanya “Al-jabr wa’l-muqabala” memperkenalkan:\n\nAl-jabr (الجبر): “melengkapkan” atau menambahkan suku yang sama ke kedua ruas\nAl-muqabala (المقابلة): “menyeimbangkan” atau menyederhanakan dengan menghilangkan suku yang sama\n\n\n# Contoh sederhana metode al-jabr\n# Persamaan: x² + 10x = 39\n# Al-Khwarizmi akan menyelesaikan ini dengan geometri\n\n\n\n1.3.2 2. Sistem Angka Hindu-Arab\nAl-Khwarizmi berperan penting dalam memperkenalkan sistem angka desimal dari India ke dunia Islam, yang kemudian menyebar ke Eropa. Karyanya tentang aritmatika Hindu (Algoritmi de numero Indorum) menjadi jembatan penting dalam transmisi pengetahuan ini.\n\n\n1.3.3 3. Metode Algoritma Sistematis\nAl-Khwarizmi mengembangkan prosedur langkah-demi-langkah yang jelas untuk menyelesaikan berbagai jenis persamaan. Pendekatan sistematis ini menjadi fondasi dari apa yang kini kita sebut “algoritma.”",
+    "crumbs": [
+      "Matematika: Fondasi Ilmu Hitung",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Al-Khwarizmi: Bapak Aljabar</span>"
+    ]
+  },
+  {
+    "objectID": "matematika/al-khwarizmi.html#karya-karya-utama",
+    "href": "matematika/al-khwarizmi.html#karya-karya-utama",
+    "title": "1  Al-Khwarizmi: Bapak Aljabar",
+    "section": "1.4 Karya-Karya Utama",
+    "text": "1.4 Karya-Karya Utama\n\n1.4.1 Al-Kitab al-mukhtasar fi hisab al-jabr wa’l-muqabala\nKarya monumentalnya ini terdiri dari enam jenis persamaan dasar: 1. \\(ax^2 = bx\\) (kuadrat sama dengan akar) 2. \\(ax^2 = c\\) (kuadrat sama dengan bilangan) 3. \\(bx = c\\) (akar sama dengan bilangan) 4. \\(ax^2 + bx = c\\) (kuadrat dan akar sama dengan bilangan) 5. \\(ax^2 + c = bx\\) (kuadrat dan bilangan sama dengan akar) 6. \\(bx + c = ax^2\\) (akar dan bilangan sama dengan kuadrat)\n\n\n1.4.2 Zij al-Sindhind (Tabel Astronomi)\nKarya astronomi yang mengadaptasi karya India Siddhanta dengan koreksi dan penyempurnaan berdasarkan observasi yang lebih akurat.\n\n\n1.4.3 Kitab Surat al-Ard (Buku Gambaran Bumi)\nKarya geografi yang memberikan koordinat lebih dari 2.400 lokasi di dunia yang dikenal pada masanya.",
+    "crumbs": [
+      "Matematika: Fondasi Ilmu Hitung",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Al-Khwarizmi: Bapak Aljabar</span>"
+    ]
+  },
+  {
+    "objectID": "matematika/al-khwarizmi.html#dimensi-keislaman-dalam-karya-al-khwarizmi",
+    "href": "matematika/al-khwarizmi.html#dimensi-keislaman-dalam-karya-al-khwarizmi",
+    "title": "1  Al-Khwarizmi: Bapak Aljabar",
+    "section": "1.5 Dimensi Keislaman dalam Karya Al-Khwarizmi",
+    "text": "1.5 Dimensi Keislaman dalam Karya Al-Khwarizmi\n\n1.5.1 Motivasi Spiritual\nBagi Al-Khwarizmi, matematika bukan sekadar alat praktis tetapi cara untuk memahami keteraturan ciptaan Allah. Dalam tradisi Islam, pencarian ilmu (thalab al-’ilm) adalah kewajiban setiap Muslim, dan matematika dipandang sebagai bahasa universal untuk membaca “ayat-ayat” Allah di alam semesta.\n\n\n1.5.2 Aplikasi dalam Kehidupan Keagamaan\nMetode-metode matematika yang dikembangkan Al-Khwarizmi memiliki aplikasi langsung dalam kehidupan keagamaan:\n\nHisab Falak: Perhitungan astronomi untuk menentukan waktu shalat dan arah kiblat\nFaraidh: Sistem pembagian warisan yang memerlukan pemecahan persamaan linear\nKalender Hijriyah: Perhitungan siklus bulan untuk menentukan bulan-bulan Islam\n\n\n\n1.5.3 Etika Keilmuan Islam\nAl-Khwarizmi menunjukkan etika keilmuan Islam yang tinggi: - Kerendahan hati: Mengakui kontribusi matematikawan sebelumnya - Universalitas: Menerima pengetahuan dari berbagai tradisi - Kemanfaatan: Mengembangkan ilmu untuk kemaslahatan umat",
+    "crumbs": [
+      "Matematika: Fondasi Ilmu Hitung",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Al-Khwarizmi: Bapak Aljabar</span>"
+    ]
+  },
+  {
+    "objectID": "matematika/al-khwarizmi.html#transmisi-ke-eropa-dan-dampak-global",
+    "href": "matematika/al-khwarizmi.html#transmisi-ke-eropa-dan-dampak-global",
+    "title": "1  Al-Khwarizmi: Bapak Aljabar",
+    "section": "1.6 Transmisi ke Eropa dan Dampak Global",
+    "text": "1.6 Transmisi ke Eropa dan Dampak Global\n\n1.6.1 Terjemahan ke Latin\nKarya Al-Khwarizmi diterjemahkan ke dalam bahasa Latin pada abad ke-12 oleh Robert of Chester dan Gerard of Cremona. Terjemahan-terjemahan ini menjadi buku teks standar di universitas-universitas Eropa selama berabad-abad.\n\n\n1.6.2 Pengaruh pada Matematikawan Eropa\n\nLeonardo Fibonacci menggunakan metode Al-Khwarizmi dalam Liber Abaci\nJohannes Kepler menerapkan teknik aljabar dalam astronomi\nRené Descartes mengembangkan geometri analitik berdasarkan fondasi yang diletakkan Al-Khwarizmi",
+    "crumbs": [
+      "Matematika: Fondasi Ilmu Hitung",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Al-Khwarizmi: Bapak Aljabar</span>"
+    ]
+  },
+  {
+    "objectID": "matematika/al-khwarizmi.html#warisan-dalam-matematika-modern",
+    "href": "matematika/al-khwarizmi.html#warisan-dalam-matematika-modern",
+    "title": "1  Al-Khwarizmi: Bapak Aljabar",
+    "section": "1.7 Warisan dalam Matematika Modern",
+    "text": "1.7 Warisan dalam Matematika Modern\n\n1.7.1 Aljabar Abstrak\nMeskipun Al-Khwarizmi bekerja dengan aljabar geometris, konsep-konsep yang diperkenalkannya menjadi fondasi bagi pengembangan: - Teori grup - Aljabar linear - Aljabar abstrak modern\n\n\n1.7.2 Ilmu Komputer\nKonsep algoritma yang diperkenalkan Al-Khwarizmi menjadi dasar dari: - Pemrograman komputer - Algoritma optimisasi - Machine learning\n\n\n1.7.3 Kriptografi\nMetode sistematis Al-Khwarizmi dalam pemecahan masalah mempengaruhi perkembangan kriptografi modern, sebuah ironi karena muridnya, Al-Kindi, adalah penemu cryptanalysis.",
+    "crumbs": [
+      "Matematika: Fondasi Ilmu Hitung",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Al-Khwarizmi: Bapak Aljabar</span>"
+    ]
+  },
+  {
+    "objectID": "matematika/al-khwarizmi.html#pembelajaran-untuk-era-digital",
+    "href": "matematika/al-khwarizmi.html#pembelajaran-untuk-era-digital",
+    "title": "1  Al-Khwarizmi: Bapak Aljabar",
+    "section": "1.8 Pembelajaran untuk Era Digital",
+    "text": "1.8 Pembelajaran untuk Era Digital\n\n1.8.1 Relevansi dalam Pendidikan STEM\nPendekatan Al-Khwarizmi yang menggabungkan intuisi geometris dengan manipulasi simbolik tetap relevan dalam pendidikan matematika modern:\n\nVisualisasi: Menggunakan representasi geometris untuk memahami konsep aljabar\nSystematicity: Mengembangkan prosedur langkah-demi-langkah yang jelas\nAplikasi: Menghubungkan teori dengan masalah praktis\n\n\n\n1.8.2 Inspirasi untuk Peneliti Muslim\nKisah Al-Khwarizmi menunjukkan bahwa: - Tradisi keilmuan Islam memiliki kontribusi fundamental bagi peradaban - Sintesis antara berbagai tradisi intelektual menghasilkan inovasi - Motivasi spiritual dapat mendorong pencapaian ilmiah yang luar biasa",
+    "crumbs": [
+      "Matematika: Fondasi Ilmu Hitung",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Al-Khwarizmi: Bapak Aljabar</span>"
+    ]
+  },
+  {
+    "objectID": "matematika/al-khwarizmi.html#refleksi-dan-penutup",
+    "href": "matematika/al-khwarizmi.html#refleksi-dan-penutup",
+    "title": "1  Al-Khwarizmi: Bapak Aljabar",
+    "section": "1.9 Refleksi dan Penutup",
+    "text": "1.9 Refleksi dan Penutup\nAl-Khwarizmi bukan hanya seorang matematikawan; ia adalah simbol dari semangat keilmuan Islam yang universal, terbuka, dan berorientasi pada kemanfaatan. Karyanya menunjukkan bahwa ilmu pengetahuan tidak mengenal batas agama, etnisitas, atau budaya—tetapi justru dikembangkan melalui dialog dan kolaborasi antar peradaban.\nDalam era digital saat ini, di mana algoritma mendorong hampir setiap aspek kehidupan kita, nama Al-Khwarizmi mengingatkan kita akan pentingnya melihat teknologi bukan sebagai tujuan, tetapi sebagai sarana untuk mencapai kebaikan yang lebih besar bagi umat manusia.\n\n“Dan demikian pulalah Kami jadikan kamu (umat Islam) umat pertengahan agar kamu menjadi saksi atas manusia.” - QS Al-Baqarah: 143",
+    "crumbs": [
+      "Matematika: Fondasi Ilmu Hitung",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Al-Khwarizmi: Bapak Aljabar</span>"
+    ]
+  },
+  {
+    "objectID": "matematika/al-khwarizmi.html#sumber-dan-referensi",
+    "href": "matematika/al-khwarizmi.html#sumber-dan-referensi",
+    "title": "1  Al-Khwarizmi: Bapak Aljabar",
+    "section": "1.10 Sumber dan Referensi",
+    "text": "1.10 Sumber dan Referensi\n\n1.10.1 Sumber Primer\n\nAl-Khwarizmi, Muhammad ibn Musa. Al-Kitab al-mukhtasar fi hisab al-jabr wa’l-muqabala\nTerjemahan Latin: Algoritmi de numero Indorum\n\n\n\n1.10.2 Sumber Sekunder\n\nBoyer, Carl B. A History of Mathematics. New York: Wiley, 1991.\nRashed, Roshdi. The Development of Arabic Mathematics: Between Arithmetic and Algebra. London: Kluwer, 1994.\nSaliba, George. Islamic Science and the Making of the European Renaissance. Cambridge: MIT Press, 2007.\n\n\n\n1.10.3 Sumber Modern\n\nSesiano, Jacques. “Islamic Mathematics.” In Companion Encyclopedia of the History and Philosophy of the Mathematical Sciences, edited by I. Grattan-Guinness. London: Routledge, 1994.\nBerggren, J.L. Episodes in the Mathematics of Medieval Islam. New York: Springer, 2016.",
+    "crumbs": [
+      "Matematika: Fondasi Ilmu Hitung",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Al-Khwarizmi: Bapak Aljabar</span>"
+    ]
+  },
+  {
+    "objectID": "matematika/omar-khayyam.html",
+    "href": "matematika/omar-khayyam.html",
+    "title": "2  Omar Khayyam: Geometri dan Puisi",
+    "section": "",
+    "text": "2.1 Pendahuluan\nGhiyath al-Din Abu’l-Fath Umar ibn Ibrahim Al-Khayyam Nishapuri (1048-1131), yang lebih dikenal sebagai Omar Khayyam, adalah salah satu polymath paling unik dalam sejarah peradaban Islam. Dikenal luas sebagai penyair penulis Rubaiyat, Omar Khayyam juga adalah matematikawan dan astronom yang revolusioner.",
+    "crumbs": [
+      "Matematika: Fondasi Ilmu Hitung",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Omar Khayyam: Geometri dan Puisi</span>"
+    ]
+  },
+  {
+    "objectID": "matematika/omar-khayyam.html#kontribusi-matematika",
+    "href": "matematika/omar-khayyam.html#kontribusi-matematika",
+    "title": "2  Omar Khayyam: Geometri dan Puisi",
+    "section": "2.2 Kontribusi Matematika",
+    "text": "2.2 Kontribusi Matematika\n\n2.2.1 Solusi Persamaan Kubik\nOmar Khayyam mengembangkan metode geometris untuk menyelesaikan persamaan kubik menggunakan irisan kerucut—pencapaian yang tidak akan dilampaui di Eropa hingga 400 tahun kemudian.\n\n\n2.2.2 Geometri Non-Euclidean\nKaryanya tentang postulat paralel Euclid mengantisipasi pengembangan geometri non-Euclidean.",
+    "crumbs": [
+      "Matematika: Fondasi Ilmu Hitung",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Omar Khayyam: Geometri dan Puisi</span>"
+    ]
+  },
+  {
+    "objectID": "matematika/omar-khayyam.html#dimensi-keislaman",
+    "href": "matematika/omar-khayyam.html#dimensi-keislaman",
+    "title": "2  Omar Khayyam: Geometri dan Puisi",
+    "section": "2.3 Dimensi Keislaman",
+    "text": "2.3 Dimensi Keislaman\nOmar Khayyam melihat geometri sebagai cara untuk memahami keharmonisan ilahi dalam alam semesta. Meskipun sering dianggap skeptis, karya-karyanya menunjukkan pencarian spiritual yang mendalam.\n\n[Catatan: Ini adalah placeholder chapter. Chapter lengkap akan dikembangkan dengan research mendalam tentang kontribusi matematis Omar Khayyam.]",
+    "crumbs": [
+      "Matematika: Fondasi Ilmu Hitung",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Omar Khayyam: Geometri dan Puisi</span>"
+    ]
+  },
+  {
+    "objectID": "matematika/maryam-mirzakhani.html",
+    "href": "matematika/maryam-mirzakhani.html",
+    "title": "3  Maryam Mirzakhani: Fields Medal Pertama",
+    "section": "",
+    "text": "3.1 Pendahuluan\nMaryam Mirzakhani (1977-2017) adalah matematikawan Iran-Amerika yang menjadi wanita pertama yang menerima Fields Medal pada tahun 2014. Karyanya dalam geometri hiperbolik dan sistem dinamis membuka jalan baru dalam matematika pure.",
+    "crumbs": [
+      "Matematika: Fondasi Ilmu Hitung",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Maryam Mirzakhani: Fields Medal Pertama</span>"
+    ]
+  },
+  {
+    "objectID": "matematika/maryam-mirzakhani.html#kontribusi-revolusioner",
+    "href": "matematika/maryam-mirzakhani.html#kontribusi-revolusioner",
+    "title": "3  Maryam Mirzakhani: Fields Medal Pertama",
+    "section": "3.2 Kontribusi Revolusioner",
+    "text": "3.2 Kontribusi Revolusioner\n\n3.2.1 Geometri Moduli\nPenelitian groundbreaking tentang volume dan geometri ruang moduli permukaan Riemann.\n\n\n3.2.2 Geodesik dan Billiard\nMengembangkan teori tentang lintasan geodesik pada permukaan hiperbolik.",
+    "crumbs": [
+      "Matematika: Fondasi Ilmu Hitung",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Maryam Mirzakhani: Fields Medal Pertama</span>"
+    ]
+  },
+  {
+    "objectID": "matematika/maryam-mirzakhani.html#legacy-dan-inspirasi",
+    "href": "matematika/maryam-mirzakhani.html#legacy-dan-inspirasi",
+    "title": "3  Maryam Mirzakhani: Fields Medal Pertama",
+    "section": "3.3 Legacy dan Inspirasi",
+    "text": "3.3 Legacy dan Inspirasi\nMirzakhani menginspirasi generasi baru matematikawan perempuan, khususnya dari dunia Muslim, untuk mengejar karir dalam matematika tingkat tinggi.\n\n[Catatan: Ini adalah placeholder chapter. Chapter lengkap akan mengeksplorasi secara mendalam kontribusi matematis Mirzakhani dan dampaknya pada matematika modern.]",
+    "crumbs": [
+      "Matematika: Fondasi Ilmu Hitung",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Maryam Mirzakhani: Fields Medal Pertama</span>"
+    ]
+  },
+  {
+    "objectID": "matematika/kamal-al-farisi.html",
+    "href": "matematika/kamal-al-farisi.html",
+    "title": "4  Kamal al-Din al-Farisi: Geometri Optik",
+    "section": "",
+    "text": "4.1 Pendahuluan\nKamal al-Din Abu al-Hasan Muhammad ibn al-Hasan al-Farisi (1267-1319) adalah matematikawan dan fisikawan Persia yang memberikan kontribusi penting dalam geometri optik dan fenomena atmosfer.",
+    "crumbs": [
+      "Matematika: Fondasi Ilmu Hitung",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Kamal al-Din al-Farisi: Geometri Optik</span>"
+    ]
+  },
+  {
+    "objectID": "matematika/kamal-al-farisi.html#kontribusi-utama",
+    "href": "matematika/kamal-al-farisi.html#kontribusi-utama",
+    "title": "4  Kamal al-Din al-Farisi: Geometri Optik",
+    "section": "4.2 Kontribusi Utama",
+    "text": "4.2 Kontribusi Utama\n\n4.2.1 Penjelasan Pelangi\nAl-Farisi memberikan penjelasan matematis pertama yang benar tentang pembentukan pelangi menggunakan prinsip-prinsip geometri optik.\n\n\n4.2.2 Geometri Proyektif\nMengembangkan konsep-konsep awal dalam geometri proyektif yang kemudian menjadi dasar matematika modern.\n\n[Catatan: Placeholder chapter untuk dikembangkan lebih lanjut.]",
+    "crumbs": [
+      "Matematika: Fondasi Ilmu Hitung",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Kamal al-Din al-Farisi: Geometri Optik</span>"
+    ]
+  },
+  {
+    "objectID": "statistika/al-razi.html",
+    "href": "statistika/al-razi.html",
+    "title": "5  Al-Razi: Pelopor Evidence-Based Medicine",
+    "section": "",
+    "text": "5.1 Pendahuluan\nAbu Bakr Muhammad ibn Zakariya al-Razi (854-925 M), yang dikenal di Barat sebagai Rhazes, adalah salah satu tokoh paling revolusioner dalam sejarah kedokteran. Lebih dari seorang dokter, Al-Razi adalah metodolog yang memperkenalkan pendekatan statistik dan evidence-based dalam praktik medis—konsep yang baru benar-benar dihargai dalam kedokteran modern abad ke-20.",
+    "crumbs": [
+      "Statistika: Ilmu Data dan Probabilitas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Al-Razi: Pelopor Evidence-Based Medicine</span>"
+    ]
+  },
+  {
+    "objectID": "statistika/al-razi.html#latar-belakang-ray-dan-baghdad",
+    "href": "statistika/al-razi.html#latar-belakang-ray-dan-baghdad",
+    "title": "5  Al-Razi: Pelopor Evidence-Based Medicine",
+    "section": "5.2 Latar Belakang: Ray dan Baghdad",
+    "text": "5.2 Latar Belakang: Ray dan Baghdad\n\n5.2.1 Kota Ray sebagai Pusat Keilmuan\nAl-Razi lahir di Ray (dekat Tehran modern), sebuah kota penting di jalur sutra yang menghubungkan Timur dan Barat. Kota ini terkenal sebagai pusat perdagangan dan keilmuan, di mana berbagai tradisi medis—Yunani, Persia, dan India—bertemu dan saling mempengaruhi.\n\n\n5.2.2 Perjalanan ke Baghdad\nPada usia yang relatif mature, Al-Razi pindah ke Baghdad untuk memperdalam ilmu kedokteran. Di sinilah ia menjadi direktur rumah sakit Baghdad, posisi yang memungkinkannya mengembangkan metodologi medis yang revolusioner.",
+    "crumbs": [
+      "Statistika: Ilmu Data dan Probabilitas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Al-Razi: Pelopor Evidence-Based Medicine</span>"
+    ]
+  },
+  {
+    "objectID": "statistika/al-razi.html#revolusi-metodologi-medis",
+    "href": "statistika/al-razi.html#revolusi-metodologi-medis",
+    "title": "5  Al-Razi: Pelopor Evidence-Based Medicine",
+    "section": "5.3 Revolusi Metodologi Medis",
+    "text": "5.3 Revolusi Metodologi Medis\n\n5.3.1 1. Uji Klinis Sistematis Pertama\nAl-Razi adalah orang pertama yang melakukan apa yang sekarang kita sebut “randomized controlled trial.” Dalam salah satu eksperimen terkenalnya, ia membagi pasien meningitis menjadi dua kelompok: - Kelompok A: Diobati dengan bloodletting (pengeluaran darah) - Kelompok B: Tidak diobati dengan bloodletting\nHasilnya menunjukkan bahwa kelompok B memiliki tingkat kesembuhan yang lebih baik, membawanya untuk mempertanyakan efektivitas bloodletting—praktik yang diterima luas pada masanya.\n\n\n5.3.2 2. Sistem Pencatatan Medis\nAl-Razi mengembangkan sistem pencatatan pasien yang komprehensif, mencatat: - Gejala awal dan perkembangannya - Pengobatan yang diberikan - Respons pasien terhadap pengobatan - Outcome jangka pendek dan panjang\n\n\n5.3.3 3. Observasi Statistik\nMeskipun belum menggunakan statistik formal dalam pengertian modern, Al-Razi mengumpulkan dan menganalisis data dari ratusan kasus untuk mengidentifikasi pola dan trend dalam penyakit dan pengobatan.",
+    "crumbs": [
+      "Statistika: Ilmu Data dan Probabilitas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Al-Razi: Pelopor Evidence-Based Medicine</span>"
+    ]
+  },
+  {
+    "objectID": "statistika/al-razi.html#karya-karya-monumenter",
+    "href": "statistika/al-razi.html#karya-karya-monumenter",
+    "title": "5  Al-Razi: Pelopor Evidence-Based Medicine",
+    "section": "5.4 Karya-Karya Monumenter",
+    "text": "5.4 Karya-Karya Monumenter\n\n5.4.1 Al-Hawi fi al-Tibb (The Comprehensive Book on Medicine)\nEnsiklopedia medis yang terdiri dari 23 volume ini mengompilasi: - Semua pengetahuan medis yang tersedia pada masanya - Observasi klinis pribadi Al-Razi dari ribuan kasus - Analisis komparatif berbagai metode pengobatan\n\n\n5.4.2 Kitab al-Mansuri (Liber Almansoris)\nBuku teks medis yang digunakan di universitas Eropa hingga abad ke-17, berisi: - Prinsip-prinsip diagnosis diferensial - Metodologi pengobatan berdasarkan evidence - Etika medis dan tanggung jawab dokter\n\n\n5.4.3 Al-Judari wa al-Hasbah (On Smallpox and Measles)\nKarya groundbreaking yang: - Membedakan secara klinis antara smallpox dan measles - Memberikan deskripsi gejala yang sangat akurat - Mengusulkan protokol pengobatan berdasarkan observasi sistematis",
+    "crumbs": [
+      "Statistika: Ilmu Data dan Probabilitas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Al-Razi: Pelopor Evidence-Based Medicine</span>"
+    ]
+  },
+  {
+    "objectID": "statistika/al-razi.html#kontribusi-dalam-biostatistika",
+    "href": "statistika/al-razi.html#kontribusi-dalam-biostatistika",
+    "title": "5  Al-Razi: Pelopor Evidence-Based Medicine",
+    "section": "5.5 Kontribusi dalam Biostatistika",
+    "text": "5.5 Kontribusi dalam Biostatistika\n\n5.5.1 Analisis Komparatif Pengobatan\nAl-Razi mengembangkan metode untuk membandingkan efektivitas berbagai pengobatan:\n\n# Simulasi pendekatan Al-Razi dalam membandingkan pengobatan\n# Data hipotetis berdasarkan catatannya\n\ntreatment_A &lt;- c(rep(\"Sembuh\", 45), rep(\"Tidak Sembuh\", 15))\ntreatment_B &lt;- c(rep(\"Sembuh\", 30), rep(\"Tidak Sembuh\", 30))\n\n# Al-Razi akan menganalisis proporsi kesembuhan\ntable(treatment_A)\n\ntreatment_A\n      Sembuh Tidak Sembuh \n          45           15 \n\ntable(treatment_B)\n\ntreatment_B\n      Sembuh Tidak Sembuh \n          30           30 \n\n\n\n\n5.5.2 Tracking Epidemi\nAl-Razi melakukan tracking sistematis terhadap penyebaran penyakit menular, mencatat: - Pola geografis penyebaran - Demografi yang terkena - Faktor lingkungan yang berkorelasi - Efektivitas berbagai intervensi\n\n\n5.5.3 Prognosis Berdasarkan Data\nMenggunakan database observasi klinis yang besar, Al-Razi mengembangkan sistem prognosis yang memprediksi outcome berdasarkan karakteristik pasien dan gejala awal.",
+    "crumbs": [
+      "Statistika: Ilmu Data dan Probabilitas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Al-Razi: Pelopor Evidence-Based Medicine</span>"
+    ]
+  },
+  {
+    "objectID": "statistika/al-razi.html#dimensi-keislaman-dalam-praktik-medis",
+    "href": "statistika/al-razi.html#dimensi-keislaman-dalam-praktik-medis",
+    "title": "5  Al-Razi: Pelopor Evidence-Based Medicine",
+    "section": "5.6 Dimensi Keislaman dalam Praktik Medis",
+    "text": "5.6 Dimensi Keislaman dalam Praktik Medis\n\n5.6.1 Pengobatan sebagai Amanah\nAl-Razi memandang praktik medis sebagai amanah dari Allah. Dalam tulisan-tulisannya, ia menekankan: - Tanggung jawab moral dokter terhadap pasien - Kewajiban untuk terus belajar dan memperbaiki metode - Pentingnya kejujuran dalam mengakui keterbatasan\n\n\n5.6.2 Etika dalam Eksperimen\nMeskipun melakukan eksperimen medis, Al-Razi selalu menekankan: - Informed consent: Pasien harus memahami pengobatan yang diberikan - Non-maleficence: “Primum non nocere” - pertama-tama, jangan merugikan - Keadilan: Pengobatan terbaik untuk semua pasien tanpa diskriminasi\n\n\n5.6.3 Pelayanan untuk Semua\nAl-Razi mempraktikkan prinsip Islam tentang pelayanan kesehatan universal: - Mengobati kaya dan miskin dengan standar yang sama - Membuka klinik gratis untuk yang tidak mampu - Melatih dokter untuk melayani daerah terpencil",
+    "crumbs": [
+      "Statistika: Ilmu Data dan Probabilitas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Al-Razi: Pelopor Evidence-Based Medicine</span>"
+    ]
+  },
+  {
+    "objectID": "statistika/al-razi.html#transmisi-pengetahuan-ke-eropa",
+    "href": "statistika/al-razi.html#transmisi-pengetahuan-ke-eropa",
+    "title": "5  Al-Razi: Pelopor Evidence-Based Medicine",
+    "section": "5.7 Transmisi Pengetahuan ke Eropa",
+    "text": "5.7 Transmisi Pengetahuan ke Eropa\n\n5.7.1 Terjemahan Karya\nKarya-karya Al-Razi diterjemahkan ke bahasa Latin dan menjadi buku teks standar di: - Universitas Salerno (Italia) - Universitas Montpellier (Prancis)\n- Universitas Oxford (Inggris)\n\n\n5.7.2 Pengaruh pada Tokoh Medis Eropa\n\nAvicenna mengadopsi metode observasi klinis Al-Razi\nThomas Sydenham mengembangkan clinical observation berdasarkan prinsip Al-Razi\nWilliam Osler mengakui kontribusi Al-Razi dalam pendidikan medis modern",
+    "crumbs": [
+      "Statistika: Ilmu Data dan Probabilitas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Al-Razi: Pelopor Evidence-Based Medicine</span>"
+    ]
+  },
+  {
+    "objectID": "statistika/al-razi.html#kontribusi-pada-metodologi-research-modern",
+    "href": "statistika/al-razi.html#kontribusi-pada-metodologi-research-modern",
+    "title": "5  Al-Razi: Pelopor Evidence-Based Medicine",
+    "section": "5.8 Kontribusi pada Metodologi Research Modern",
+    "text": "5.8 Kontribusi pada Metodologi Research Modern\n\n5.8.1 Evidence-Based Medicine\nPrinsip-prinsip yang diperkenalkan Al-Razi menjadi fondasi EBM modern:\n\nSystematic observation: Observasi yang terstruktur dan konsisten\nComparative analysis: Membandingkan berbagai metode pengobatan\nDocumentation: Pencatatan yang komprehensif dan akurat\nReproducibility: Metode yang dapat direplikasi oleh dokter lain\n\n\n\n5.8.2 Epidemiologi\nPendekatan Al-Razi dalam tracking penyakit menular menjadi dasar epidemiologi modern: - Pattern recognition dalam penyebaran penyakit - Identifikasi faktor risiko - Intervention evaluation\n\n\n5.8.3 Clinical Trials\nEksperimen Al-Razi memiliki elemen-elemen modern: - Control groups - Outcome measurement - Follow-up systematic",
+    "crumbs": [
+      "Statistika: Ilmu Data dan Probabilitas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Al-Razi: Pelopor Evidence-Based Medicine</span>"
+    ]
+  },
+  {
+    "objectID": "statistika/al-razi.html#warisan-dalam-biostatistika-modern",
+    "href": "statistika/al-razi.html#warisan-dalam-biostatistika-modern",
+    "title": "5  Al-Razi: Pelopor Evidence-Based Medicine",
+    "section": "5.9 Warisan dalam Biostatistika Modern",
+    "text": "5.9 Warisan dalam Biostatistika Modern\n\n5.9.1 Statistical Inference\nMeskipun belum menggunakan mathematical statistics, Al-Razi menggunakan inferential thinking: - Generalisasi dari sampel ke populasi - Assessment of treatment effectiveness - Risk-benefit analysis\n\n\n5.9.2 Quality Control\nAl-Razi mengembangkan sistem quality control dalam kedokteran: - Standardisasi prosedur diagnosis - Monitoring outcome pengobatan - Continuous improvement berdasarkan data",
+    "crumbs": [
+      "Statistika: Ilmu Data dan Probabilitas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Al-Razi: Pelopor Evidence-Based Medicine</span>"
+    ]
+  },
+  {
+    "objectID": "statistika/al-razi.html#pembelajaran-untuk-era-digital-health",
+    "href": "statistika/al-razi.html#pembelajaran-untuk-era-digital-health",
+    "title": "5  Al-Razi: Pelopor Evidence-Based Medicine",
+    "section": "5.10 Pembelajaran untuk Era Digital Health",
+    "text": "5.10 Pembelajaran untuk Era Digital Health\n\n5.10.1 Big Data dalam Healthcare\nPendekatan Al-Razi dalam mengumpulkan dan menganalisis data klinis yang besar sangat relevan dengan era digital health:\n\n# Simulasi modern approach yang inspired by Al-Razi\n# Electronic Health Records analysis\n\nlibrary(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n# Hypothetical patient data inspired by Al-Razi's methods\npatients &lt;- data.frame(\n  age = sample(20:80, 1000, replace = TRUE),\n  treatment = sample(c(\"A\", \"B\", \"Control\"), 1000, replace = TRUE),\n  outcome = sample(c(\"Recovered\", \"Improved\", \"No Change\"), 1000, replace = TRUE),\n  follow_up_days = sample(7:90, 1000, replace = TRUE)\n)\n\n# Analysis yang mirip dengan metode Al-Razi\npatients %&gt;%\n  group_by(treatment) %&gt;%\n  summarise(\n    recovery_rate = mean(outcome == \"Recovered\"),\n    avg_follow_up = mean(follow_up_days),\n    .groups = 'drop'\n  )\n\n# A tibble: 3 × 3\n  treatment recovery_rate avg_follow_up\n  &lt;chr&gt;             &lt;dbl&gt;         &lt;dbl&gt;\n1 A                 0.367          48.5\n2 B                 0.342          46.8\n3 Control           0.353          47.6\n\n\n\n\n5.10.2 Precision Medicine\nMetode Al-Razi dalam individualized treatment berdasarkan karakteristik pasien sejalan dengan precision medicine modern.\n\n\n5.10.3 Global Health\nPrinsip keadilan dan accessibility yang dipraktikkan Al-Razi relevan dengan tantangan global health saat ini.",
+    "crumbs": [
+      "Statistika: Ilmu Data dan Probabilitas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Al-Razi: Pelopor Evidence-Based Medicine</span>"
+    ]
+  },
+  {
+    "objectID": "statistika/al-razi.html#tantangan-dan-kontroversi",
+    "href": "statistika/al-razi.html#tantangan-dan-kontroversi",
+    "title": "5  Al-Razi: Pelopor Evidence-Based Medicine",
+    "section": "5.11 Tantangan dan Kontroversi",
+    "text": "5.11 Tantangan dan Kontroversi\n\n5.11.1 Keterbatasan Era\nAl-Razi bekerja dengan keterbatasan: - Tidak ada microscope untuk memahami pathogen - Belum ada understanding tentang germ theory - Limited pharmaceutical options\n\n\n5.11.2 Resistensi terhadap Inovasi\nMetode evidence-based Al-Razi tidak selalu diterima oleh establishment medis tradisional, menunjukkan tantangan dalam medical innovation yang masih relevan hari ini.",
+    "crumbs": [
+      "Statistika: Ilmu Data dan Probabilitas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Al-Razi: Pelopor Evidence-Based Medicine</span>"
+    ]
+  },
+  {
+    "objectID": "statistika/al-razi.html#inspirasi-untuk-peneliti-modern",
+    "href": "statistika/al-razi.html#inspirasi-untuk-peneliti-modern",
+    "title": "5  Al-Razi: Pelopor Evidence-Based Medicine",
+    "section": "5.12 Inspirasi untuk Peneliti Modern",
+    "text": "5.12 Inspirasi untuk Peneliti Modern\n\n5.12.1 Integritas Ilmiah\nAl-Razi menunjukkan: - Keberanian untuk menantang conventional wisdom - Komitmen pada truth berdasarkan evidence - Transparansi dalam reporting hasil\n\n\n5.12.2 Holistic Approach\nAl-Razi tidak hanya focus pada aspek technical tetapi juga: - Psychological wellbeing pasien - Social determinants of health - Spiritual dimensions of healing\n\n\n5.12.3 Continuous Learning\nAl-Razi exemplified growth mindset: - Selalu ready untuk revisi pendapat berdasarkan data baru - Learning from failures dan complications - Teaching dan knowledge sharing",
+    "crumbs": [
+      "Statistika: Ilmu Data dan Probabilitas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Al-Razi: Pelopor Evidence-Based Medicine</span>"
+    ]
+  },
+  {
+    "objectID": "statistika/al-razi.html#refleksi-untuk-era-contemporary",
+    "href": "statistika/al-razi.html#refleksi-untuk-era-contemporary",
+    "title": "5  Al-Razi: Pelopor Evidence-Based Medicine",
+    "section": "5.13 Refleksi untuk Era Contemporary",
+    "text": "5.13 Refleksi untuk Era Contemporary\n\n5.13.1 Medical Ethics\nPrinsip-prinsip etika Al-Razi sangat relevan untuk isu-isu contemporary: - Clinical trial ethics - Healthcare inequality - Patient autonomy\n\n\n5.13.2 Technology dan Humanity\nAl-Razi menunjukkan bagaimana teknologi (metodologi pada masanya) harus melayani humanity, bukan sebaliknya.\n\n\n5.13.3 Faith dan Science\nIntegrasi seamless antara faith dan scientific method dalam karya Al-Razi memberikan model untuk scientist Muslim contemporary.",
+    "crumbs": [
+      "Statistika: Ilmu Data dan Probabilitas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Al-Razi: Pelopor Evidence-Based Medicine</span>"
+    ]
+  },
+  {
+    "objectID": "statistika/al-razi.html#penutup",
+    "href": "statistika/al-razi.html#penutup",
+    "title": "5  Al-Razi: Pelopor Evidence-Based Medicine",
+    "section": "5.14 Penutup",
+    "text": "5.14 Penutup\nAl-Razi bukan hanya physician yang skilled, tetapi juga metodolog yang visioner. Kontribusinya dalam biostatistika dan evidence-based medicine menunjukkan bahwa tradisi keilmuan Islam memiliki appreciation yang mendalam terhadap empirical evidence dan scientific rigor.\nDalam era di mana medical misinformation mudah menyebar, legacy Al-Razi mengingatkan kita tentang pentingnya: - Evidence-based decision making - Continuous learning dan adaptation - Ethical responsibility dalam healthcare - Service to humanity sebagai motivasi utama\n\n“Ilmu itu adalah cahaya yang Allah berikan kepada siapa yang dikehendaki-Nya.” - Hadits",
+    "crumbs": [
+      "Statistika: Ilmu Data dan Probabilitas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Al-Razi: Pelopor Evidence-Based Medicine</span>"
+    ]
+  },
+  {
+    "objectID": "statistika/al-razi.html#sumber-dan-referensi",
+    "href": "statistika/al-razi.html#sumber-dan-referensi",
+    "title": "5  Al-Razi: Pelopor Evidence-Based Medicine",
+    "section": "5.15 Sumber dan Referensi",
+    "text": "5.15 Sumber dan Referensi\n\n5.15.1 Sumber Primer\n\nAl-Razi, Abu Bakr. Al-Hawi fi al-Tibb\nAl-Razi, Abu Bakr. Al-Judari wa al-Hasbah\n\n\n\n5.15.2 Sumber Sekunder\n\nUllmann, Manfred. Islamic Medicine. Edinburgh: Edinburgh University Press, 1978.\nSavage-Smith, Emilie. “Medicine in Medieval Islam.” In Encyclopedia of the History of Science, Technology, and Medicine in Non-Western Cultures. Springer, 2016.\n\n\n\n5.15.3 Sumber Modern\n\nPormann, Peter E., and Emilie Savage-Smith. Medieval Islamic Medicine. Washington, DC: Georgetown University Press, 2007.\nConrad, Lawrence I. “The Arab-Islamic Medical Tradition.” In The Western Medical Tradition, edited by Irvine Loudon. Cambridge: Cambridge University Press, 1997.",
+    "crumbs": [
+      "Statistika: Ilmu Data dan Probabilitas",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Al-Razi: Pelopor Evidence-Based Medicine</span>"
+    ]
+  },
+  {
+    "objectID": "statistika/salim-yusuf.html",
+    "href": "statistika/salim-yusuf.html",
+    "title": "6  Salim Yusuf: Meta-analisis Global",
+    "section": "",
+    "text": "6.1 Pendahuluan\nProf. Salim Yusuf adalah epidemiologist dan cardiologist terkemuka yang mengembangkan metodologi meta-analisis untuk uji klinis skala global.",
+    "crumbs": [
+      "Statistika: Ilmu Data dan Probabilitas",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Salim Yusuf: Meta-analisis Global</span>"
+    ]
+  },
+  {
+    "objectID": "statistika/salim-yusuf.html#kontribusi-dalam-biostatistika",
+    "href": "statistika/salim-yusuf.html#kontribusi-dalam-biostatistika",
+    "title": "6  Salim Yusuf: Meta-analisis Global",
+    "section": "6.2 Kontribusi dalam Biostatistika",
+    "text": "6.2 Kontribusi dalam Biostatistika\n\n6.2.1 INTERHEART Study\nStudi case-control global yang mengidentifikasi faktor risiko penyakit jantung di berbagai populasi.\n\n\n6.2.2 Metodologi Meta-analisis\nPengembangan teknik statistical untuk menggabungkan hasil dari multiple clinical trials.\n\n[Catatan: Placeholder chapter untuk dikembangkan lebih lanjut.]",
+    "crumbs": [
+      "Statistika: Ilmu Data dan Probabilitas",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Salim Yusuf: Meta-analisis Global</span>"
+    ]
+  },
+  {
+    "objectID": "statistika/hanan-khadr.html",
+    "href": "statistika/hanan-khadr.html",
+    "title": "7  Hanan Khadr: Statistika Sosial",
+    "section": "",
+    "text": "7.1 Pendahuluan\nProf. Hanan Khadr adalah statistikawan yang fokus pada metodologi survei dan analisis data sosial-ekonomi.",
+    "crumbs": [
+      "Statistika: Ilmu Data dan Probabilitas",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Hanan Khadr: Statistika Sosial</span>"
+    ]
+  },
+  {
+    "objectID": "statistika/hanan-khadr.html#kontribusi",
+    "href": "statistika/hanan-khadr.html#kontribusi",
+    "title": "7  Hanan Khadr: Statistika Sosial",
+    "section": "7.2 Kontribusi",
+    "text": "7.2 Kontribusi\n\n7.2.1 Survey Methodology\nPengembangan teknik sampling dan data collection untuk populasi di negara berkembang.\n\n\n7.2.2 Social Statistics\nAplikasi metode statistik untuk analisis kemiskinan dan pembangunan sosial.\n\n[Catatan: Placeholder chapter untuk dikembangkan lebih lanjut.]",
+    "crumbs": [
+      "Statistika: Ilmu Data dan Probabilitas",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Hanan Khadr: Statistika Sosial</span>"
+    ]
+  },
+  {
+    "objectID": "statistika/metodologi-islam.html",
+    "href": "statistika/metodologi-islam.html",
+    "title": "8  Metodologi Statistik dalam Tradisi Islam",
+    "section": "",
+    "text": "8.1 Pendahuluan\nBab ini mengeksplorasi bagaimana prinsip-prinsip Islam mendorong pengembangan metodologi yang ketat dalam pengumpulan dan analisis data.",
+    "crumbs": [
+      "Statistika: Ilmu Data dan Probabilitas",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Metodologi Statistik dalam Tradisi Islam</span>"
+    ]
+  },
+  {
+    "objectID": "statistika/metodologi-islam.html#prinsip-prinsip-dasar",
+    "href": "statistika/metodologi-islam.html#prinsip-prinsip-dasar",
+    "title": "8  Metodologi Statistik dalam Tradisi Islam",
+    "section": "8.2 Prinsip-Prinsip Dasar",
+    "text": "8.2 Prinsip-Prinsip Dasar\n\n8.2.1 Ketelitian dan Presisi\nNilai Islam tentang itqan (perfection in work) mendorong ketelitian dalam observasi dan measurement.\n\n\n8.2.2 Transparansi dan Kejujuran\nPrinsip amanah dalam reporting dan analysis data.\n\n[Catatan: Placeholder chapter untuk dikembangkan lebih lanjut.]",
+    "crumbs": [
+      "Statistika: Ilmu Data dan Probabilitas",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Metodologi Statistik dalam Tradisi Islam</span>"
+    ]
+  },
+  {
+    "objectID": "ai/al-kindi.html",
+    "href": "ai/al-kindi.html",
+    "title": "9  Al-Kindi: Pelopor Computational Thinking",
+    "section": "",
+    "text": "9.1 Pendahuluan\nAbu Yusuf Ya’qub ibn Ishaq al-Kindi (801-873 M) dikenal sebagai “Filsuf Pertama Arab” dan “Filsuf Universal Islam.” Namun, kontribusinya yang paling revolusioner—dan yang membuatnya relevan dengan era kecerdasan buatan—adalah pengembangan metode sistematis dalam logika, kriptografi, dan apa yang sekarang kita sebut computational thinking.\nAl-Kindi bukan hanya seorang polymath yang menguasai filosofi, matematika, astronomi, dan kedokteran, tetapi juga metodolog yang mengembangkan pendekatan algoritmik untuk memecahkan masalah kompleks. Karyanya dalam cryptanalysis dapat dianggap sebagai salah satu aplikasi awal dari pattern recognition dan statistical analysis—fondasi dari banyak teknik AI modern.",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Al-Kindi: Pelopor Computational Thinking</span>"
+    ]
+  },
+  {
+    "objectID": "ai/al-kindi.html#latar-belakang-kufa-dan-baghdad",
+    "href": "ai/al-kindi.html#latar-belakang-kufa-dan-baghdad",
+    "title": "9  Al-Kindi: Pelopor Computational Thinking",
+    "section": "9.2 Latar Belakang: Kufa dan Baghdad",
+    "text": "9.2 Latar Belakang: Kufa dan Baghdad\n\n9.2.1 Keluarga Bangsawan Arab\nAl-Kindi lahir di Kufa dari keluarga bangsawan suku Kindah. Ayahnya adalah gubernur Kufa pada masa Khalifah Harun al-Rashid. Latar belakang privileged ini memberikan Al-Kindi akses ke pendidikan terbaik dan library yang kaya.\n\n\n9.2.2 Baitul Hikmah: Laboratorium Intelektual\nDi Baghdad, Al-Kindi menjadi bagian integral dari Baitul Hikmah. Di sinilah ia mengembangkan metode-metode revolusioner dalam berbagai bidang, termasuk yang menjadi cikal bakal computational thinking.",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Al-Kindi: Pelopor Computational Thinking</span>"
+    ]
+  },
+  {
+    "objectID": "ai/al-kindi.html#revolusi-dalam-cryptanalysis",
+    "href": "ai/al-kindi.html#revolusi-dalam-cryptanalysis",
+    "title": "9  Al-Kindi: Pelopor Computational Thinking",
+    "section": "9.3 Revolusi dalam Cryptanalysis",
+    "text": "9.3 Revolusi dalam Cryptanalysis\n\n9.3.1 Frequency Analysis: Algoritma Pertama dalam Cryptography\nKontribusi paling groundbreaking Al-Kindi adalah pengembangan frequency analysis untuk memecahkan kode. Dalam karyanya “Risala fi Istikhraj al-Mu’amma” (Manuscript on Deciphering Cryptographic Messages), ia mendeskripsikan metode sistematis:\n\nData Collection: Mengumpulkan sampel besar teks dalam bahasa target\nPattern Recognition: Mengidentifikasi frekuensi kemunculan setiap huruf\nStatistical Analysis: Membandingkan frekuensi dalam pesan tersandi dengan pola bahasa normal\nIterative Decoding: Menggunakan substitusi berdasarkan analisis frekuensi\n\nIni adalah algoritma pertama yang menggunakan statistical pattern recognition—konsep fundamental dalam machine learning modern.\n# Simulasi metode Al-Kindi dalam Python modern\ndef al_kindi_frequency_analysis(ciphertext, language_freq):\n    \"\"\"\n    Implementasi modern dari metode frequency analysis Al-Kindi\n    \"\"\"\n    # Hitung frekuensi karakter dalam ciphertext\n    cipher_freq = {}\n    for char in ciphertext:\n        cipher_freq[char] = cipher_freq.get(char, 0) + 1\n    \n    # Urutkan berdasarkan frekuensi\n    sorted_cipher = sorted(cipher_freq.items(), key=lambda x: x[1], reverse=True)\n    sorted_language = sorted(language_freq.items(), key=lambda x: x[1], reverse=True)\n    \n    # Buat mapping berdasarkan frekuensi\n    substitution_map = {}\n    for i, (cipher_char, _) in enumerate(sorted_cipher):\n        if i &lt; len(sorted_language):\n            substitution_map[cipher_char] = sorted_language[i][0]\n    \n    return substitution_map\n\n\n9.3.2 Logical Framework untuk Problem Solving\nAl-Kindi mengembangkan framework sistematis untuk pemecahan masalah yang mencakup:\n\nProblem Decomposition: Memecah masalah kompleks menjadi sub-masalah yang dapat dikelola\nPattern Analysis: Mencari pola dan regularitas dalam data\nHypothesis Testing: Mengajukan dan menguji hipotesis secara sistematis\nVerification: Memverifikasi solusi melalui multiple methods",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Al-Kindi: Pelopor Computational Thinking</span>"
+    ]
+  },
+  {
+    "objectID": "ai/al-kindi.html#kontribusi-dalam-logika-dan-reasoning",
+    "href": "ai/al-kindi.html#kontribusi-dalam-logika-dan-reasoning",
+    "title": "9  Al-Kindi: Pelopor Computational Thinking",
+    "section": "9.4 Kontribusi dalam Logika dan Reasoning",
+    "text": "9.4 Kontribusi dalam Logika dan Reasoning\n\n9.4.1 Formal Logic Systems\nAl-Kindi mengembangkan sistem logika formal yang menggabungkan: - Silogisme Aristotelian - Metode induktif berdasarkan observasi - Analisis probabilistik (meskipun belum formal)\n\n\n9.4.2 Knowledge Representation\nDalam karyanya tentang klasifikasi ilmu pengetahuan, Al-Kindi mengembangkan sistem representasi knowledge yang hierarkis—konsep yang sangat penting dalam AI modern.\ngraph TD\n    A[Universal Knowledge] --&gt; B[Theoretical Sciences]\n    A --&gt; C[Practical Sciences]\n    B --&gt; D[Mathematics]\n    B --&gt; E[Physics]\n    B --&gt; F[Metaphysics]\n    C --&gt; G[Ethics]\n    C --&gt; H[Economics]\n    C --&gt; I[Politics]\n    \n    D --&gt; J[Arithmetic]\n    D --&gt; K[Geometry]\n    D --&gt; L[Astronomy]\n    D --&gt; M[Music]",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Al-Kindi: Pelopor Computational Thinking</span>"
+    ]
+  },
+  {
+    "objectID": "ai/al-kindi.html#metode-algoritmik-dalam-berbagai-bidang",
+    "href": "ai/al-kindi.html#metode-algoritmik-dalam-berbagai-bidang",
+    "title": "9  Al-Kindi: Pelopor Computational Thinking",
+    "section": "9.5 Metode Algoritmik dalam Berbagai Bidang",
+    "text": "9.5 Metode Algoritmik dalam Berbagai Bidang\n\n9.5.1 Astronomi Komputasional\nAl-Kindi mengembangkan algoritma untuk: - Prediksi posisi planet dengan akurasi tinggi - Kalkulasi gerhana matahari dan bulan - Konversi antara sistem kalender yang berbeda\n\n\n9.5.2 Medical Diagnosis\nDalam bidang kedokteran, Al-Kindi mengembangkan sistem diagnosis yang menggunakan: - Rule-based reasoning - Pattern matching terhadap gejala - Probabilistic assessment risk\n\n\n9.5.3 Mathematical Algorithms\nAl-Kindi berkontribusi dalam pengembangan algoritma matematika untuk: - Approximation metode untuk akar kuadrat - Algoritma untuk interpolasi data astronomi - Metode numerik untuk solving equations",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Al-Kindi: Pelopor Computational Thinking</span>"
+    ]
+  },
+  {
+    "objectID": "ai/al-kindi.html#dimensi-keislaman-dalam-computational-thinking",
+    "href": "ai/al-kindi.html#dimensi-keislaman-dalam-computational-thinking",
+    "title": "9  Al-Kindi: Pelopor Computational Thinking",
+    "section": "9.6 Dimensi Keislaman dalam Computational Thinking",
+    "text": "9.6 Dimensi Keislaman dalam Computational Thinking\n\n9.6.1 Tawhid sebagai Unifying Principle\nBagi Al-Kindi, logika dan reasoning adalah cara untuk memahami unity dan coherence dalam ciptaan Allah. Prinsip tawhid (keesaan Allah) menjadi framework untuk mencari pola dan keteraturan dalam alam semesta.\n\n\n9.6.2 Wahyu dan Akal sebagai Sumber Pengetahuan\nAl-Kindi mengembangkan epistemologi yang mengintegrasikan: - Wahyu (naql): Pengetahuan yang diberikan melalui revelation - Akal (’aql): Pengetahuan yang diperoleh melalui reasoning - Observasi (mushāhada): Pengetahuan empirical melalui sense experience\n\n\n9.6.3 Etika dalam Knowledge Discovery\nAl-Kindi menekankan tanggung jawab etis dalam pencarian ilmu: - Knowledge harus digunakan untuk kebaikan (maslaha) - Transparansi dalam metode dan hasil - Humility dalam mengakui keterbatasan human reasoning",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Al-Kindi: Pelopor Computational Thinking</span>"
+    ]
+  },
+  {
+    "objectID": "ai/al-kindi.html#pengaruh-pada-perkembangan-ai-modern",
+    "href": "ai/al-kindi.html#pengaruh-pada-perkembangan-ai-modern",
+    "title": "9  Al-Kindi: Pelopor Computational Thinking",
+    "section": "9.7 Pengaruh pada Perkembangan AI Modern",
+    "text": "9.7 Pengaruh pada Perkembangan AI Modern\n\n9.7.1 Pattern Recognition\nMetode frequency analysis Al-Kindi menjadi foundasi untuk: - Natural Language Processing - Statistical machine learning - Computer vision algorithms\n\n\n9.7.2 Expert Systems\nFramework reasoning Al-Kindi mempengaruhi pengembangan: - Rule-based expert systems - Knowledge-based systems - Diagnostic algorithms\n\n\n9.7.3 Cryptography dan Security\nKarya Al-Kindi dalam cryptanalysis menjadi basis untuk: - Modern cryptographic algorithms - Security analysis - Information theory",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Al-Kindi: Pelopor Computational Thinking</span>"
+    ]
+  },
+  {
+    "objectID": "ai/al-kindi.html#computational-thinking-framework-al-kindi",
+    "href": "ai/al-kindi.html#computational-thinking-framework-al-kindi",
+    "title": "9  Al-Kindi: Pelopor Computational Thinking",
+    "section": "9.8 Computational Thinking Framework Al-Kindi",
+    "text": "9.8 Computational Thinking Framework Al-Kindi\n\n9.8.1 1. Decomposition\nAl-Kindi mengembangkan metode untuk breaking down complex problems:\ndef al_kindi_decomposition(complex_problem):\n    \"\"\"\n    Framework dekomposisi masalah ala Al-Kindi\n    \"\"\"\n    sub_problems = []\n    \n    # Identifikasi komponen utama\n    components = identify_main_components(complex_problem)\n    \n    # Analisis dependencies\n    dependencies = analyze_dependencies(components)\n    \n    # Prioritas berdasarkan complexity dan dependencies\n    prioritized_components = prioritize_by_complexity(components, dependencies)\n    \n    return prioritized_components\n\n\n9.8.2 2. Pattern Recognition\ndef al_kindi_pattern_analysis(data):\n    \"\"\"\n    Metode analisis pola yang dikembangkan Al-Kindi\n    \"\"\"\n    patterns = []\n    \n    # Frequency analysis\n    frequency_patterns = analyze_frequency(data)\n    \n    # Sequence patterns\n    sequence_patterns = analyze_sequences(data)\n    \n    # Contextual patterns\n    contextual_patterns = analyze_context(data)\n    \n    return combine_patterns(frequency_patterns, sequence_patterns, contextual_patterns)\n\n\n9.8.3 3. Abstraction\nAl-Kindi mengembangkan hierarchy of abstraction yang memungkinkan generalization dari specific cases ke universal principles.\n\n\n9.8.4 4. Algorithm Design\nFramework untuk designing step-by-step solutions yang dapat direplikasi dan diverifikasi.",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Al-Kindi: Pelopor Computational Thinking</span>"
+    ]
+  },
+  {
+    "objectID": "ai/al-kindi.html#legacy-dalam-computer-science-modern",
+    "href": "ai/al-kindi.html#legacy-dalam-computer-science-modern",
+    "title": "9  Al-Kindi: Pelopor Computational Thinking",
+    "section": "9.9 Legacy dalam Computer Science Modern",
+    "text": "9.9 Legacy dalam Computer Science Modern\n\n9.9.1 Theoretical Computer Science\nKonsep-konsep Al-Kindi mempengaruhi: - Algorithm analysis dan complexity theory - Formal verification methods - Automated reasoning systems\n\n\n9.9.2 Artificial Intelligence\nPendekatan Al-Kindi relevan untuk: - Machine learning algorithms - Knowledge representation - Automated reasoning\n\n\n9.9.3 Information Security\nMetode cryptanalysis Al-Kindi menjadi foundational untuk: - Modern cryptographic systems - Security analysis tools - Information warfare",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Al-Kindi: Pelopor Computational Thinking</span>"
+    ]
+  },
+  {
+    "objectID": "ai/al-kindi.html#aplikasi-dalam-era-digital",
+    "href": "ai/al-kindi.html#aplikasi-dalam-era-digital",
+    "title": "9  Al-Kindi: Pelopor Computational Thinking",
+    "section": "9.10 Aplikasi dalam Era Digital",
+    "text": "9.10 Aplikasi dalam Era Digital\n\n9.10.1 Natural Language Processing\nFrequency analysis Al-Kindi digunakan dalam: - Language detection algorithms - Text classification - Sentiment analysis\n# Modern application of Al-Kindi's frequency analysis in NLP\nfrom collections import Counter\nimport numpy as np\n\ndef modern_al_kindi_nlp(text, reference_frequencies):\n    \"\"\"\n    Aplikasi modern metode Al-Kindi untuk NLP\n    \"\"\"\n    # Tokenisasi dan normalisasi\n    tokens = tokenize_and_normalize(text)\n    \n    # Frequency analysis\n    text_freq = Counter(tokens)\n    \n    # Statistical comparison dengan reference\n    similarity_score = calculate_frequency_similarity(text_freq, reference_frequencies)\n    \n    # Pattern-based classification\n    classification = classify_based_on_patterns(similarity_score)\n    \n    return classification\n\n\n9.10.2 Machine Learning\nPrinsip-prinsip Al-Kindi dalam pattern recognition diaplikasikan dalam: - Feature extraction - Classification algorithms - Anomaly detection\n\n\n9.10.3 Cybersecurity\nMetode analytical thinking Al-Kindi digunakan dalam: - Intrusion detection systems - Malware analysis - Digital forensics",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Al-Kindi: Pelopor Computational Thinking</span>"
+    ]
+  },
+  {
+    "objectID": "ai/al-kindi.html#pembelajaran-untuk-ai-ethics",
+    "href": "ai/al-kindi.html#pembelajaran-untuk-ai-ethics",
+    "title": "9  Al-Kindi: Pelopor Computational Thinking",
+    "section": "9.11 Pembelajaran untuk AI Ethics",
+    "text": "9.11 Pembelajaran untuk AI Ethics\n\n9.11.1 Transparency dan Explainability\nAl-Kindi menekankan pentingnya transparency dalam reasoning process—konsep yang sangat relevan untuk explainable AI.\n\n\n9.11.2 Human-Centered AI\nPendekatan Al-Kindi yang mengintegrasikan multiple sources of knowledge (wahyu, akal, observasi) memberikan framework untuk human-centered AI yang tidak hanya mengandalkan data.\n\n\n9.11.3 Ethical Use of Technology\nPrinsip-prinsip etika Al-Kindi relevan untuk contemporary debates tentang AI ethics: - Technology harus melayani human flourishing - Transparency dalam algorithmic decision-making - Accountability dalam AI systems",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Al-Kindi: Pelopor Computational Thinking</span>"
+    ]
+  },
+  {
+    "objectID": "ai/al-kindi.html#tantangan-dalam-rekonstruksi-historical",
+    "href": "ai/al-kindi.html#tantangan-dalam-rekonstruksi-historical",
+    "title": "9  Al-Kindi: Pelopor Computational Thinking",
+    "section": "9.12 Tantangan dalam Rekonstruksi Historical",
+    "text": "9.12 Tantangan dalam Rekonstruksi Historical\n\n9.12.1 Limited Primary Sources\nBanyak karya Al-Kindi yang hilang atau hanya tersedia dalam fragmen, making it challenging untuk fully reconstruct metodologi-nya.\n\n\n9.12.2 Translation dan Interpretation\nKonsep-konsep yang dikembangkan Al-Kindi sering diekspresikan dalam terminologi filosofis yang memerlukan careful interpretation untuk memahami relevance-nya dengan computational concepts modern.\n\n\n9.12.3 Cultural dan Temporal Gap\nMemahami konteks intellectual dan cultural Al-Kindi penting untuk menghindari anachronistic interpretation of his contributions.",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Al-Kindi: Pelopor Computational Thinking</span>"
+    ]
+  },
+  {
+    "objectID": "ai/al-kindi.html#research-opportunities-contemporary",
+    "href": "ai/al-kindi.html#research-opportunities-contemporary",
+    "title": "9  Al-Kindi: Pelopor Computational Thinking",
+    "section": "9.13 Research Opportunities Contemporary",
+    "text": "9.13 Research Opportunities Contemporary\n\n9.13.1 Digital Humanities\nMenggunakan computational methods untuk: - Analyze surviving manuscripts Al-Kindi - Reconstruct lost works berdasarkan references - Map intellectual networks dalam Islamic Golden Age\n\n\n9.13.2 History of Algorithms\nTracing evolution dari algorithmic thinking dari Al-Kindi ke computer science modern.\n\n\n9.13.3 Philosophy of AI\nExploring bagaimana epistemologi Al-Kindi dapat inform contemporary debates dalam AI philosophy.",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Al-Kindi: Pelopor Computational Thinking</span>"
+    ]
+  },
+  {
+    "objectID": "ai/al-kindi.html#inspirasi-untuk-muslim-technologists",
+    "href": "ai/al-kindi.html#inspirasi-untuk-muslim-technologists",
+    "title": "9  Al-Kindi: Pelopor Computational Thinking",
+    "section": "9.14 Inspirasi untuk Muslim Technologists",
+    "text": "9.14 Inspirasi untuk Muslim Technologists\n\n9.14.1 Integration of Faith dan Science\nAl-Kindi menunjukkan bahwa deep religious faith dapat mendorong rather than hinder scientific innovation.\n\n\n9.14.2 Ethical Technology Development\nPrinsip-prinsip etika Al-Kindi memberikan guidance untuk developing technology yang beneficial untuk humanity.\n\n\n9.14.3 Cross-Cultural Learning\nOpenness Al-Kindi terhadap knowledge dari berbagai tradisi memberikan model untuk collaborative research dalam global AI community.",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Al-Kindi: Pelopor Computational Thinking</span>"
+    ]
+  },
+  {
+    "objectID": "ai/al-kindi.html#refleksi-untuk-era-ai",
+    "href": "ai/al-kindi.html#refleksi-untuk-era-ai",
+    "title": "9  Al-Kindi: Pelopor Computational Thinking",
+    "section": "9.15 Refleksi untuk Era AI",
+    "text": "9.15 Refleksi untuk Era AI\n\n9.15.1 Beyond Pure Technical Solutions\nAl-Kindi’s holistic approach mengingatkan kita bahwa AI solutions harus consider multiple dimensions—technical, ethical, social, dan spiritual.\n\n\n9.15.2 Importance of Foundational Thinking\nDalam era rapid technological change, foundational thinking seperti yang dikembangkan Al-Kindi tetap essential untuk navigating complex challenges.\n\n\n9.15.3 Human Wisdom dalam Automated Systems\nIntegration of human wisdom dengan automated systems—sebuah challenge yang sudah dihadapi Al-Kindi dalam integrating revealed knowledge dengan rational analysis.",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Al-Kindi: Pelopor Computational Thinking</span>"
+    ]
+  },
+  {
+    "objectID": "ai/al-kindi.html#penutup",
+    "href": "ai/al-kindi.html#penutup",
+    "title": "9  Al-Kindi: Pelopor Computational Thinking",
+    "section": "9.16 Penutup",
+    "text": "9.16 Penutup\nAl-Kindi adalah visionary yang tidak hanya mengembangkan specific techniques tetapi juga foundational approaches untuk problem-solving yang masih relevan dalam era AI. Karya-nya menunjukkan bahwa computational thinking bukan phenomenon modern tetapi part of longer tradition of systematic reasoning.\nDalam menghadapi challenges AI contemporary—dari algorithmic bias hingga existential risk—kita dapat belajar dari wisdom Al-Kindi tentang: - Importance of ethical grounding dalam technological development - Value of integrating multiple sources of knowledge - Need for transparency dan accountability dalam reasoning processes - Responsibility untuk using knowledge untuk benefit of humanity\nLegacy Al-Kindi mengingatkan kita bahwa technology, no matter how advanced, harus tetap grounded dalam values dan wisdom yang mengutamakan human flourishing dan divine guidance.\n\n“Kita harus berterima kasih kepada mereka yang telah memberikan kontribusi, meskipun kecil, kepada kebenaran.” - Al-Kindi",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Al-Kindi: Pelopor Computational Thinking</span>"
+    ]
+  },
+  {
+    "objectID": "ai/al-kindi.html#sumber-dan-referensi",
+    "href": "ai/al-kindi.html#sumber-dan-referensi",
+    "title": "9  Al-Kindi: Pelopor Computational Thinking",
+    "section": "9.17 Sumber dan Referensi",
+    "text": "9.17 Sumber dan Referensi\n\n9.17.1 Sumber Primer\n\nAl-Kindi, Ya’qub ibn Ishaq. Risala fi Istikhraj al-Mu’amma (Manuscript on Deciphering Cryptographic Messages)\nAl-Kindi, Ya’qub ibn Ishaq. Fi al-Falsafa al-Ula (On First Philosophy)\n\n\n\n9.17.2 Sumber Sekunder\n\nAdamson, Peter. Al-Kindi. Oxford: Oxford University Press, 2007.\nRashed, Roshdi, and Régis Morelon, eds. Encyclopedia of the History of Arabic Science. London: Routledge, 1996.\n\n\n\n9.17.3 Sumber Modern\n\nKahn, David. The Codebreakers: The Story of Secret Writing. New York: Scribner, 1996.\nSingh, Simon. The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography. New York: Anchor Books, 2000.\nHodges, Andrew. Alan Turing: The Enigma. Princeton: Princeton University Press, 2012.",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Al-Kindi: Pelopor Computational Thinking</span>"
+    ]
+  },
+  {
+    "objectID": "ai/yoshua-bengio.html",
+    "href": "ai/yoshua-bengio.html",
+    "title": "10  Yoshua Bengio: Deep Learning Pioneer",
+    "section": "",
+    "text": "10.1 Pendahuluan\nProf. Yoshua Bengio adalah salah satu pionir deep learning dan penerima Turing Award 2018.",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Yoshua Bengio: Deep Learning Pioneer</span>"
+    ]
+  },
+  {
+    "objectID": "ai/yoshua-bengio.html#kontribusi-ai",
+    "href": "ai/yoshua-bengio.html#kontribusi-ai",
+    "title": "10  Yoshua Bengio: Deep Learning Pioneer",
+    "section": "10.2 Kontribusi AI",
+    "text": "10.2 Kontribusi AI\n\n10.2.1 Neural Networks\nPengembangan arsitektur neural network yang revolusioner.\n\n\n10.2.2 AI for Humanity\nKomitmen untuk mengembangkan AI yang beneficial untuk kemanusiaan.\n\n[Catatan: Placeholder chapter untuk dikembangkan lebih lanjut.]",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Yoshua Bengio: Deep Learning Pioneer</span>"
+    ]
+  },
+  {
+    "objectID": "ai/nizar-habash.html",
+    "href": "ai/nizar-habash.html",
+    "title": "11  Nizar Habash: Arabic NLP Pioneer",
+    "section": "",
+    "text": "11.1 Pendahuluan\nProf. Nizar Habash adalah pionir dalam Natural Language Processing untuk bahasa Arab dan computational linguistics.",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Nizar Habash: Arabic NLP Pioneer</span>"
+    ]
+  },
+  {
+    "objectID": "ai/nizar-habash.html#kontribusi",
+    "href": "ai/nizar-habash.html#kontribusi",
+    "title": "11  Nizar Habash: Arabic NLP Pioneer",
+    "section": "11.2 Kontribusi",
+    "text": "11.2 Kontribusi\n\n11.2.1 Arabic NLP\nPengembangan tools dan methodologies untuk processing bahasa Arab.\n\n\n11.2.2 Cross-lingual NLP\nMetodologi untuk bridging Arabic dan bahasa lain dalam NLP systems.\n\n[Catatan: Placeholder chapter untuk dikembangkan lebih lanjut.]",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Nizar Habash: Arabic NLP Pioneer</span>"
+    ]
+  },
+  {
+    "objectID": "ai/dina-katabi.html",
+    "href": "ai/dina-katabi.html",
+    "title": "12  Dina Katabi: AI for Health",
+    "section": "",
+    "text": "12.1 Pendahuluan\nProf. Dina Katabi adalah computer scientist yang mengembangkan aplikasi AI untuk healthcare dan wireless systems.",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Dina Katabi: AI for Health</span>"
+    ]
+  },
+  {
+    "objectID": "ai/dina-katabi.html#kontribusi",
+    "href": "ai/dina-katabi.html#kontribusi",
+    "title": "12  Dina Katabi: AI for Health",
+    "section": "12.2 Kontribusi",
+    "text": "12.2 Kontribusi\n\n12.2.1 RF-Sensing\nPenggunaan radio frequency untuk health monitoring non-invasive.\n\n\n12.2.2 Wireless AI\nAplikasi machine learning dalam wireless network optimization.\n\n[Catatan: Placeholder chapter untuk dikembangkan lebih lanjut.]",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Dina Katabi: AI for Health</span>"
+    ]
+  },
+  {
+    "objectID": "ai/etika-ai-islam.html",
+    "href": "ai/etika-ai-islam.html",
+    "title": "13  Etika AI dalam Perspektif Islam",
+    "section": "",
+    "text": "13.1 Pendahuluan\nBab ini mengeksplorasi bagaimana prinsip-prinsip etika Islam dapat memberikan guidance untuk pengembangan AI yang responsible dan beneficial.",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Etika AI dalam Perspektif Islam</span>"
+    ]
+  },
+  {
+    "objectID": "ai/etika-ai-islam.html#prinsip-prinsip-etika-islam-untuk-ai",
+    "href": "ai/etika-ai-islam.html#prinsip-prinsip-etika-islam-untuk-ai",
+    "title": "13  Etika AI dalam Perspektif Islam",
+    "section": "13.2 Prinsip-Prinsip Etika Islam untuk AI",
+    "text": "13.2 Prinsip-Prinsip Etika Islam untuk AI\n\n13.2.1 Maslaha (Public Interest)\nAI harus dikembangkan untuk kemashlahatan umum umat manusia.\n\n\n13.2.2 Adl (Justice)\nAlgoritma AI harus fair dan tidak diskriminatif.\n\n\n13.2.3 Amanah (Trust)\nResponsibility dalam developing dan deploying AI systems.\n\n\n13.2.4 Hikmah (Wisdom)\nMenggunakan AI dengan bijaksana dan mempertimbangkan konsekuensi jangka panjang.",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Etika AI dalam Perspektif Islam</span>"
+    ]
+  },
+  {
+    "objectID": "ai/etika-ai-islam.html#aplikasi-praktis",
+    "href": "ai/etika-ai-islam.html#aplikasi-praktis",
+    "title": "13  Etika AI dalam Perspektif Islam",
+    "section": "13.3 Aplikasi Praktis",
+    "text": "13.3 Aplikasi Praktis\n\n13.3.1 Algorithmic Fairness\nBagaimana prinsip keadilan Islam dapat diterapkan dalam algorithm design.\n\n\n13.3.2 Privacy dan Data Protection\nPrinsip Islam tentang protection of privacy (hifz al-’ird).\n\n\n13.3.3 Transparency dan Explainability\nKewajiban untuk transparency dalam decision-making processes.\n\n[Catatan: Placeholder chapter untuk dikembangkan lebih lanjut dengan theological dan technical analysis yang mendalam.]",
+    "crumbs": [
+      "Kecerdasan Buatan & Data Science",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Etika AI dalam Perspektif Islam</span>"
+    ]
+  }
+]
